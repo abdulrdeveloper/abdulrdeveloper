@@ -1,16 +1,145 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,58a6ff&height=120&section=header" width="100%" />
 
-Currently, two official plugins are available:
+<img src="https://img.shields.io/badge/◉_OPEN_TO_WORK-238636?style=for-the-badge&labelColor=0d1117&color=238636" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<br/><br/>
 
-## React Compiler
+<h1>ABDUL RAHMAN</h1>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```
+◈  FULL-STACK DEVELOPER  ◈
+```
 
-## Expanding the ESLint configuration
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+clean%2C+scalable+web+apps;React+%7C+Node.js+%7C+TypeScript;Code+is+the+conversation." alt="Typing SVG" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+<table border="0"><tr><td align="center" width="650">
+
+*Full-stack developer focused on building clean web apps.*
+*I enjoy collaborating with other devs and shipping things that solve real problems.*
+
+</td></tr></table>
+
+---
+
+### ◈ &nbsp; LANGUAGES &nbsp; ◈
+
+<br/>
+
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+
+<br/>
+
+---
+
+### ◈ &nbsp; FRONTEND &nbsp; ◈
+
+<br/>
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+
+<br/>
+
+---
+
+### ◈ &nbsp; BACKEND & DATABASE &nbsp; ◈
+
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-%23C5F74F.svg?style=flat-square&logo=drizzle&logoColor=black)
+
+<br/>
+
+---
+
+### ◈ &nbsp; DEVOPS & DEPLOYMENT &nbsp; ◈
+
+<br/>
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat-square&logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=flat-square&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat-square&logo=githubactions&logoColor=white)
+
+<br/>
+
+---
+
+### ◈ &nbsp; TOOLS &nbsp; ◈
+
+<br/>
+
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
+
+<br/>
+
+---
+
+### ◈ &nbsp; CURRENTLY LEARNING &nbsp; ◈
+
+<br/>
+
+> *Touched in projects & actively exploring —*
+
+![Zod](https://img.shields.io/badge/Zod-%233068B7?style=flat-square&logo=zod&logoColor=white&labelColor=1a1f2e)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23010101?style=flat-square&logo=socket.io&logoColor=58a6ff&labelColor=1a1f2e)
+![JWT](https://img.shields.io/badge/JWT_Auth-%23000000?style=flat-square&logo=jsonwebtokens&logoColor=58a6ff&labelColor=1a1f2e)
+![REST API](https://img.shields.io/badge/REST_API-%23009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1f2e)
+
+<br/>
+
+---
+
+### ◈ &nbsp; GITHUB STATS &nbsp; ◈
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdulrdeveloper&show_icons=true&theme=github_dark&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=6&count_private=true" height="160" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrdeveloper&layout=compact&theme=github_dark&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=6&langs_count=6" height="160" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abdulrdeveloper&theme=github-dark-blue&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border=30363d&border_radius=6" height="160" />
+
+<br/>
+
+---
+
+### ◈ &nbsp; CONNECT &nbsp; ◈
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdulrdeveloper.me-58a6ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117)](https://abdulrdeveloper.me)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/abdulrdeveloper)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-hire@abdulrdeveloper.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:hire@abdulrdeveloper.me)
+
+<br/><br/>
+
+---
+
+```
+        ◈  CODE IS THE CONVERSATION.  ◈
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff,0d1117&height=80&section=footer" width="100%" />
+
+</div>
