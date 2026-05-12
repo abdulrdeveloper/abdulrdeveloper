@@ -110,12 +110,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdulrdeveloper&show_icons=true&theme=github_dark&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=6&count_private=true" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrdeveloper&layout=compact&theme=github_dark&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=6&langs_count=6" height="160" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulrdeveloper&theme=github-dark-blue&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border=30363d&border_radius=6" height="160" />
 
 <br/>
