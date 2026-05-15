@@ -1,7 +1,6 @@
 ﻿import { useEffect } from "react";
 import "./App.css";
 import Security from "./security.jsx";
-import abdulPic from "../src/assets/favicon.png";
 
 function App() {
     useEffect(() => {
@@ -12,7 +11,7 @@ function App() {
         <div className="card">
             <div className="avatar-wrap">
                 <img
-                    src={abdulPic}
+                    src="/favicon.png"
                     alt="Abdul Rahman"
                     className="avatar-image"
                 />
