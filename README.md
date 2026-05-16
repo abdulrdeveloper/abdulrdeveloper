@@ -106,6 +106,30 @@
 
 ---
 
+### ◈ &nbsp; REPOSITORY METADATA (DESCRIPTIONS & TOPICS) &nbsp; ◈
+
+<br/>
+
+| Repository | Description | Topics |
+|---|---|---|
+| [Product-explorer-api](https://github.com/abdulrdeveloper/Product-explorer-api) | REST API backend for exploring and managing product data with efficient endpoints and flexible search. | `api`, `backend`, `products`, `nodejs`, `express`, `rest` |
+| [Meals-Listing-Interface-API](https://github.com/abdulrdeveloper/Meals-Listing-Interface-API) | Web app and API for browsing, listing, and managing meals with user-friendly features and clean UI. | `web-app`, `api`, `meals`, `food`, `listing`, `javascript`, `ui` |
+| [Quotes-Listing-Application](https://github.com/abdulrdeveloper/Quotes-Listing-Application) | Browse and organize favorite quotes with this simple and intuitive web app featuring add and search capabilities. | `quotes`, `web-app`, `javascript`, `ui`, `favorites` |
+| [Jokes-Viewer-Application](https://github.com/abdulrdeveloper/Jokes-Viewer-Application) | Fun web app to view, fetch, and share random jokes using modern JavaScript and responsive design. | `jokes`, `web-app`, `javascript`, `fun`, `api`, `responsive` |
+| [Cat-Viewer-API](https://github.com/abdulrdeveloper/Cat-Viewer-API) | RESTful API for browsing and retrieving cat images and data, designed for quick integration and demo usage. | `api`, `cats`, `images`, `rest`, `web`, `javascript`, `demo` |
+| [React-Foundations](https://github.com/abdulrdeveloper/React-Foundations) | Collection of foundational React examples, components, and learning resources for mastering the basics. | `react`, `javascript`, `learning`, `foundation`, `examples`, `components` |
+| [Color-Palette-Generator](https://github.com/abdulrdeveloper/Color-Palette-Generator) | Easy-to-use tool to generate and customize appealing color palettes for designers and developers. | `palette`, `generator`, `color`, `css`, `javascript`, `web-tool` |
+| [express-typeScript-server-build](https://github.com/abdulrdeveloper/express-typeScript-server-build) | Boilerplate for building scalable servers using Express.js and TypeScript, ready for rapid API development. | `express`, `typescript`, `boilerplate`, `server`, `backend`, `api` |
+| [Total-TypeScript](https://github.com/abdulrdeveloper/Total-TypeScript) | Practical resources and code samples to advance TypeScript skills from beginner to expert. | `typescript`, `learning`, `examples`, `advanced`, `web`, `code-samples` |
+| [kanban-Board](https://github.com/abdulrdeveloper/kanban-Board) | A Kanban board app for managing tasks visually with drag-and-drop functionality and a responsive UI. | `kanban`, `board`, `tasks`, `web-app`, `javascript`, `productivity` |
+| [Todo-List-App-Project](https://github.com/abdulrdeveloper/Todo-List-App-Project) | Simple and effective ToDo list app for organizing tasks and tracking productivity. | `todo`, `app`, `productivity`, `javascript`, `web`, `tasks` |
+| [Authentication-Service](https://github.com/abdulrdeveloper/Authentication-Service) | Secure authentication service built in TypeScript using JWT and best practices for user management. | `authentication`, `typescript`, `jwt`, `backend`, `security`, `api` |
+| [Tailwind-Complete-Guide](https://github.com/abdulrdeveloper/Tailwind-Complete-Guide) | Comprehensive resource and code samples for mastering Tailwind CSS, from basics to advanced techniques. | `tailwind`, `css`, `guide`, `learning`, `web`, `frontend` |
+
+<br/>
+
+---
+
 ### ◈ &nbsp; GITHUB STATS &nbsp; ◈
 
 <br/>
