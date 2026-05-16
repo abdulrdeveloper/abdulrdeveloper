@@ -152,7 +152,6 @@
 
 <details>
 <summary><b>🎨 Interactive Web Apps (9 projects)</b></summary>
-<br/>
 
 | Project | Live Demo | Tech | Stars |
 |---------|-----------|------|-------|
@@ -170,7 +169,6 @@
 
 <details>
 <summary><b>🔌 API Integration Projects (6 projects)</b></summary>
-<br/>
 
 | Project | Live Demo | API Used | Stars |
 |---------|-----------|----------|-------|
@@ -185,7 +183,6 @@
 
 <details>
 <summary><b>🎯 Production Apps (5 projects)</b></summary>
-<br/>
 
 | Project | Live Demo | Tech Stack | Stars |
 |---------|-----------|------------|-------|
@@ -199,7 +196,6 @@
 
 <details>
 <summary><b>📚 Learning Projects (6 projects)</b></summary>
-<br/>
 
 | Repository | Description | Tech | Stars |
 |------------|-------------|------|-------|
@@ -214,7 +210,6 @@
 
 <details>
 <summary><b>⚙️ Backend & Services (2 projects)</b></summary>
-<br/>
 
 | Repository | Description | Tech | Stars |
 |------------|-------------|------|-------|
@@ -263,33 +258,6 @@ const currentFocus = {
 
 ---
 
-## 💭 **MY PHILOSOPHY**
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%E2%97%88+CODE+IS+THE+CONVERSATION+%E2%97%88;Every+line+tells+a+story;Every+commit+builds+a+legacy;Building+with+purpose%2C+shipping+with+passion" alt="Philosophy" />
-
-<br/><br/>
-
-```ascii
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║  "The best code is not the cleverest—                      ║
-║   it's the one that communicates intent clearly."          ║
-║                                                            ║
-║  I believe in writing code that:                           ║
-║   • Solves real problems                                   ║
-║   • Tells a clear story                                    ║
-║   • Can be maintained by others                            ║
-║   • Makes a positive impact                                ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## 💬 **LET'S CONNECT**
 
 <div align="center">
@@ -311,15 +279,17 @@ const currentFocus = {
 ![Followers](https://img.shields.io/github/followers/abdulrdeveloper?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/abdulrdeveloper?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=TOTAL+STARS)
 
-<br/><br/>
-
-**Thanks for visiting! If you find my work valuable:**
-
-⭐ Star my repositories  
-🤝 Connect on LinkedIn  
-📧 Reach out for collaboration  
-
 <br/>
+
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   "Code is poetry written in logic."                      ║
+║                                                           ║
+║   Thanks for visiting! Star ⭐ my repos if you like them  ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff,0d1117&height=100&section=footer" width="100%" />
 
