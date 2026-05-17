@@ -1,265 +1,348 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=22,24,27&text=ABDUL%20RAHMAN&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Modern%20Web%20Apps%20%7C%20Open%20Source&descSize=20&descAlignY=55" width="100%" />
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║              ABDUL RAHMAN — PROFILE README               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=C9A84C&center=true&vCenter=true&width=900&lines=SYSTEM+INITIALIZING...;LOADING+TECH+STACK...;DEVELOPER+MODE+ACTIVATED;React+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL;Building+clean%2C+scalable+web+applications" alt="Typing SVG" />
+<a href="https://abdulrdeveloper.me">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:d4a84c&height=260&section=header&text=ABDUL%20RAHMAN&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Programmer%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+</a>
+
+<br />
+
+<img src="./readme-data/hero-avatar.png" width="260" style="border-radius:50%; border: 4px solid #d4a84c; box-shadow: 0 0 40px rgba(212,168,76,0.6);" alt="Abdul Rahman" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/●%20OPEN%20TO%20WORK-d4a84c?style=for-the-badge&labelColor=0d1117&color=d4a84c" />
+
+<br /><br />
+
+<a href="https://abdulrdeveloper.me">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=D4A84C&center=true&vCenter=true&multiline=true&width=720&height=80&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Rahman;Full-Stack+Developer+%E2%9C%A8;I+don't+code+%E2%80%94+I+have+conversations.;Welcome+to+my+universe+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br />
+
+<!-- GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=3&width=100%" />
+
+<br />
+
+<!-- PROFILE STATS ROW -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulrdeveloper&label=PROFILE+VIEWS&style=for-the-badge&color=d4a84c&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/abdulrdeveloper?label=FOLLOWERS&style=for-the-badge&color=d4a84c&labelColor=0d1117&logo=github" />
+  <img src="https://img.shields.io/github/stars/abdulrdeveloper?label=STARS&style=for-the-badge&color=d4a84c&labelColor=0d1117&logo=github" />
+</p>
+
+</div>
+
+<br />
+
+<!-- ─────────────────────── ABOUT ─────────────────────── -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%E2%97%88+%C2%A0ABOUT%C2%A0ME%C2%A0+%E2%97%88" />
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="60%" valign="top">
+
+```yaml
+name:         "Abdul Rahman"
+role:         "Full-Stack Developer & Programmer"
+location:     "Building from anywhere 🌍"
+website:      "https://abdulrdeveloper.me"
+focus:        ["React", "Node.js", "TypeScript", "Cloud"]
+philosophy:   "Code is The Conversation"
+currently:    "Crafting pixel-perfect experiences"
+open_to:      "Freelance · Full-time · Collabs"
+fun_fact:     "I'm a programmer, not just a coder ⚡"
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="220" />
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<!-- ─────────────────────── TECH STACK ─────────────────────── -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=3&width=100%" />
+
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=520&height=50&lines=%E2%97%88+%C2%A0TECH%C2%A0ARSENAL%C2%A0+%E2%97%88" />
+</h2>
+
+### 💻 &nbsp; Languages
 
 <p>
-  <img src="https://img.shields.io/badge/◉_OPEN_TO_WORK-238636?style=for-the-badge&labelColor=0d1117&color=238636" />
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-C9A84C?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0d1117&labelColor=0d1117&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
 </p>
+
+### 🎨 &nbsp; Frontend
 
 <p>
-  <a href="https://abdulrdeveloper.me"><img src="https://img.shields.io/badge/🌐_Portfolio-abdulrdeveloper.me-C9A84C?style=for-the-badge&labelColor=0d1117"/></a>
-  <a href="https://linkedin.com/in/abdulrdeveloper"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-  <a href="mailto:hire@abdulrdeveloper.me"><img src="https://img.shields.io/badge/Email-hire@abdulrdeveloper.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
-  <a href="https://twitter.com/abdulrdeveloper"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117"/></a>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0d1117&labelColor=0d1117&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white&labelColor=0d1117" />
 </p>
+
+### ⚙️ &nbsp; Backend
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=abdulrdeveloper&label=PROFILE+VIEWS&color=C9A84C&style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/followers/abdulrdeveloper?style=for-the-badge&color=C9A84C&labelColor=0d1117&label=FOLLOWERS&logo=github" />
-  <img src="https://img.shields.io/github/stars/abdulrdeveloper?style=for-the-badge&color=C9A84C&labelColor=0d1117&label=TOTAL+STARS&logo=github" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0d1117" />
+</p>
+
+### 🗄️ &nbsp; Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=0d1117&labelColor=0d1117&color=FFCA28" />
+</p>
+
+### ☁️ &nbsp; DevOps & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" />
+</p>
+
+### 🛠️ &nbsp; Tools & Design
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=0d1117" />
 </p>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
+<br />
 
+<!-- ─────────────────────── GITHUB STATS ─────────────────────── -->
 <div align="center">
 
-## 👨‍💻 ABOUT ME
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=3&width=100%" />
+
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=560&height=50&lines=%E2%97%88+%C2%A0GITHUB%C2%A0ANALYTICS%C2%A0+%E2%97%88" />
+</h2>
+
+<br />
+
+<!-- A+ GRADE STATS -->
+<a href="https://github.com/abdulrdeveloper">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abdulrdeveloper&show_icons=true&theme=transparent&bg_color=0d1117&title_color=d4a84c&icon_color=d4a84c&text_color=ffffff&border_color=d4a84c&hide_border=false&include_all_commits=true&count_private=true&rank_icon=percentile" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrdeveloper&layout=compact&theme=transparent&bg_color=0d1117&title_color=d4a84c&text_color=ffffff&border_color=d4a84c&hide_border=false&langs_count=10" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/abdulrdeveloper">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrdeveloper&theme=transparent&background=0d1117&ring=d4a84c&fire=d4a84c&currStreakLabel=d4a84c&sideLabels=d4a84c&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=d4a84c" height="180" />
+</a>
+
+<br /><br />
+
+<!-- PROFILE SUMMARY CARD WITH RANK -->
+<a href="https://github.com/abdulrdeveloper">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrdeveloper&theme=nord_dark" width="98%" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/abdulrdeveloper">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrdeveloper&theme=nord_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulrdeveloper&theme=nord_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulrdeveloper&theme=nord_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulrdeveloper&theme=nord_dark&utcOffset=5" height="180" />
+</a>
 
 </div>
 
+<br />
+
+<!-- ─────────────────────── ACTIVITY GRAPH ─────────────────────── -->
 <div align="center">
 
-**Full‑stack developer** focused on building clean, scalable web applications and shipping real products. I love crafting modern UI, connecting robust backends, and polishing performance and UX.
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=560&height=50&lines=%E2%97%88+%C2%A0CONTRIBUTION%C2%A0GRAPH%C2%A0+%E2%97%88" />
+</h2>
 
-**Core focus:** React • Node.js • TypeScript • PostgreSQL • Tailwind • Vite
+<a href="https://github.com/abdulrdeveloper">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrdeveloper&bg_color=0d1117&color=d4a84c&line=d4a84c&point=ffffff&area=true&area_color=d4a84c&hide_border=true&custom_title=Abdul's%20Contribution%20Universe" width="98%" />
+</a>
 
-</div>
+<br /><br />
 
----
-
-<div align="center">
-
-## 🧭 PROFESSIONAL SCOREBOARD
-
-</div>
-
-<div align="center">
-
-| Category | Grade |
-|---|---|
-| Frontend Excellence | **A+** |
-| Backend Engineering | **A** |
-| DevOps & Deployment | **A** |
-| UI/UX Craftsmanship | **A+** |
-| Code Quality | **A** |
-| Communication & Collaboration | **A** |
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ TECH STACK (SEPARATE CATEGORIES)
-
-</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,tailwind,postgres,git,github,docker,vercel,vscode,postman,vite&perline=12" />
-</p>
-
-<div align="center">
-
-**Languages & Core**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 💼 LIVE PROJECTS (Public)
-
-</div>
-
-<div align="center">
-
-| Project | Live Demo | Repository | Grade | Stars |
-|---|---|---|---|---|
-| **Portfolio** | [View](https://abdulrdeveloper.me) | [abdulrdeveloper](https://github.com/abdulrdeveloper/abdulrdeveloper) | **A+** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/abdulrdeveloper?style=flat-square) |
-| **Tic Tac Toe X** | [View](https://tictactoe-x.vercel.app) | [React--Tic-Tac-Toe](https://github.com/abdulrdeveloper/React--Tic-Tac-Toe) | **A** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/React--Tic-Tac-Toe?style=flat-square) |
-| **Kanban Board** | [View](https://modern-kanban-board.vercel.app) | [kanban-Board](https://github.com/abdulrdeveloper/kanban-Board) | **A** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/kanban-Board?style=flat-square) |
-| **Dynamic List Creator** | [View](https://dynamic-list-creator-project.vercel.app) | [Dynamic-List-Creator](https://github.com/abdulrdeveloper/Dynamic-List-Creator) | **B+** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Dynamic-List-Creator?style=flat-square) |
-| **Dynamic Toggle Button** | [View](https://dynamic-toggle-button.vercel.app) | [Dynamic-Toggle-Button](https://github.com/abdulrdeveloper/Dynamic-Toggle-Button) | **B+** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Dynamic-Toggle-Button?style=flat-square) |
-| **Todo List App** | [View](https://todo-list-app-project-js.vercel.app) | [Todo-List-App-Project](https://github.com/abdulrdeveloper/Todo-List-App-Project) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Todo-List-App-Project?style=flat-square) |
-| **Color Palette Generator** | [View](https://color-palette-kit.vercel.app) | [Color-Palette-Generator](https://github.com/abdulrdeveloper/Color-Palette-Generator) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Color-Palette-Generator?style=flat-square) |
-| **Cursor Clone** | [View](https://cusror-clone-cohort-2026.vercel.app) | [Cusror-Clone-Cohort-2026](https://github.com/abdulrdeveloper/Cusror-Clone-Cohort-2026) | **B+** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Cusror-Clone-Cohort-2026?style=flat-square) |
-| **Mintlify Clone** | [View](https://mintlify-clone-cohort-2026.vercel.app) | [Mintlify-Clone-Cohort-2026](https://github.com/abdulrdeveloper/Mintlify-Clone-Cohort-2026) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Mintlify-Clone-Cohort-2026?style=flat-square) |
-| **Portfolio (HTML)** | [View](https://portfolio-assignment-cohort-2026.vercel.app) | [portfolio-assignment-using-html](https://github.com/abdulrdeveloper/portfolio-assignment-using-html) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/portfolio-assignment-using-html?style=flat-square) |
-| **ChaiLearn** | [View](https://chailearn.vercel.app) | [chailearn](https://github.com/abdulrdeveloper/chailearn) | **A** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/chailearn?style=flat-square) |
-| **Random Users UI** | [View](https://user-card-freeapi.vercel.app) | [user-card-freeapi](https://github.com/abdulrdeveloper/user-card-freeapi) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/user-card-freeapi?style=flat-square) |
-| **Cat Viewer** | [View](https://cat-viewer-app.vercel.app) | [Cat-Viewer-API](https://github.com/abdulrdeveloper/Cat-Viewer-API) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Cat-Viewer-API?style=flat-square) |
-| **Jokes Viewer** | [View](https://jokes-viewers.vercel.app) | [Jokes-Viewer-Application](https://github.com/abdulrdeveloper/Jokes-Viewer-Application) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Jokes-Viewer-Application?style=flat-square) |
-| **Quotes Listing** | [View](https://quotes-listing-freeapi.vercel.app) | [Quotes-Listing-Application](https://github.com/abdulrdeveloper/Quotes-Listing-Application) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Quotes-Listing-Application?style=flat-square) |
-| **Meals Explorer** | [View](https://meals-freeapi.vercel.app) | [Meals-Listing-Interface-API](https://github.com/abdulrdeveloper/Meals-Listing-Interface-API) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Meals-Listing-Interface-API?style=flat-square) |
-| **Product Explorer** | [View](https://product-explorer-api.vercel.app) | [Product-explorer-api](https://github.com/abdulrdeveloper/Product-explorer-api) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Product-explorer-api?style=flat-square) |
-
-</div>
-
----
-
-<div align="center">
-
-## 📚 ALL PUBLIC REPOSITORIES (LIVE STARS)
-
-</div>
-
-<div align="center">
-
-| Repository | Description | Language | Stars |
-|---|---|---|---|
-| [abdulrdeveloper](https://github.com/abdulrdeveloper/abdulrdeveloper) | A clean and modern GitHub portfolio card template – fully customizable, easy to use, and perfect for showcasing your professional profile. Fork or adapt for your own GitHub readme or personal branding. | CSS | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/abdulrdeveloper?style=flat-square) |
-| [Chai-aur-React](https://github.com/abdulrdeveloper/Chai-aur-React) | Hands-on React learning project focused on understanding core React concepts through practical examples and component-based development. | JavaScript | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Chai-aur-React?style=flat-square) |
-| [React--Tic-Tac-Toe](https://github.com/abdulrdeveloper/React--Tic-Tac-Toe) | A modern Tic-Tac-Toe game built with React, featuring interactive UI and game logic in JavaScript and CSS. | JavaScript | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/React--Tic-Tac-Toe?style=flat-square) |
-| [chailearn](https://github.com/abdulrdeveloper/chailearn) | An interactive resource for learning front-end development concepts step by step, with practical examples and modern web technologies. | CSS | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/chailearn?style=flat-square) |
-| [express-typeScript-server-build](https://github.com/abdulrdeveloper/express-typeScript-server-build) | Boilerplate for building scalable servers using Express.js and TypeScript, ready for rapid API development. | TypeScript | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/express-typeScript-server-build?style=flat-square) |
-| [Total-TypeScript](https://github.com/abdulrdeveloper/Total-TypeScript) | Practical resources and code samples to advance TypeScript skills from beginner to expert. | TypeScript | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Total-TypeScript?style=flat-square) |
-| [Learn-SQL](https://github.com/abdulrdeveloper/Learn-SQL) | Comprehensive resources and practical PLpgSQL examples to learn and practice SQL database fundamentals from scratch. | PLpgSQL | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Learn-SQL?style=flat-square) |
-| [Authentication-Service](https://github.com/abdulrdeveloper/Authentication-Service) | Secure authentication service built in TypeScript using JWT and best practices for user management. | TypeScript | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Authentication-Service?style=flat-square) |
-| [React](https://github.com/abdulrdeveloper/React) | — | — | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/React?style=flat-square) |
-| [react-refresher-M](https://github.com/abdulrdeveloper/react-refresher-M) | Quick React refresher featuring hands-on examples, components, and key React concepts for everyday use. | JavaScript | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/react-refresher-M?style=flat-square) |
-| [React-Foundations](https://github.com/abdulrdeveloper/React-Foundations) | Collection of foundational React examples, components, and learning resources for mastering the basics. | CSS | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/React-Foundations?style=flat-square) |
-| [Tailwind-Complete-Guide](https://github.com/abdulrdeveloper/Tailwind-Complete-Guide) | Comprehensive resource and code samples for mastering Tailwind CSS, from basics to advanced techniques. | JavaScript | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Tailwind-Complete-Guide?style=flat-square) |
-| [Dynamic-List-Creator](https://github.com/abdulrdeveloper/Dynamic-List-Creator) | A handy web tool for creating, managing, and customizing dynamic lists with a modern and interactive interface. | CSS | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Dynamic-List-Creator?style=flat-square) |
-| [Dynamic-Toggle-Button](https://github.com/abdulrdeveloper/Dynamic-Toggle-Button) | A customizable and reusable toggle button component for modern web applications, built for seamless UI interactions. | CSS | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Dynamic-Toggle-Button?style=flat-square) |
-| [Todo-List-App-Project](https://github.com/abdulrdeveloper/Todo-List-App-Project) | Simple and effective ToDo list app for organizing tasks and tracking productivity. | CSS | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Todo-List-App-Project?style=flat-square) |
-| [Color-Palette-Generator](https://github.com/abdulrdeveloper/Color-Palette-Generator) | Easy-to-use tool to generate and customize appealing color palettes for designers and developers. | CSS | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Color-Palette-Generator?style=flat-square) |
-| [kanban-Board](https://github.com/abdulrdeveloper/kanban-Board) | A Kanban board app for managing tasks visually with drag-and-drop functionality and a responsive UI. | CSS | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/kanban-Board?style=flat-square) |
-| [Cusror-Clone-Cohort-2026](https://github.com/abdulrdeveloper/Cusror-Clone-Cohort-2026) | A frontend project inspired by Cursor, built for learning and practicing modern web development techniques. | HTML | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Cusror-Clone-Cohort-2026?style=flat-square) |
-| [Mintlify-Clone-Cohort-2026](https://github.com/abdulrdeveloper/Mintlify-Clone-Cohort-2026) | Frontend project replicating features and design of Mintlify, focused on modern UI and responsive web development. | HTML | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Mintlify-Clone-Cohort-2026?style=flat-square) |
-| [portfolio-assignment-using-html](https://github.com/abdulrdeveloper/portfolio-assignment-using-html) | A basic yet effective portfolio website built with pure HTML to showcase skills and projects. | HTML | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/portfolio-assignment-using-html?style=flat-square) |
-| [user-card-freeapi](https://github.com/abdulrdeveloper/user-card-freeapi) | A mini-project to fetch and display user card information from a public API, showcasing dynamic frontend integration. | CSS | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/user-card-freeapi?style=flat-square) |
-| [Cat-Viewer-API](https://github.com/abdulrdeveloper/Cat-Viewer-API) | RESTful API for browsing and retrieving cat images and data, designed for quick integration and demo usage. | CSS | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Cat-Viewer-API?style=flat-square) |
-| [Jokes-Viewer-Application](https://github.com/abdulrdeveloper/Jokes-Viewer-Application) | Fun web app to view, fetch, and share random jokes using modern JavaScript and responsive design. | CSS | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Jokes-Viewer-Application?style=flat-square) |
-| [Quotes-Listing-Application](https://github.com/abdulrdeveloper/Quotes-Listing-Application) | Browse and organize favorite quotes with this simple and intuitive web app featuring add and search capabilities. | CSS | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Quotes-Listing-Application?style=flat-square) |
-| [Meals-Listing-Interface-API](https://github.com/abdulrdeveloper/Meals-Listing-Interface-API) | Web app and API for browsing, listing, and managing meals with user-friendly features and clean UI. | CSS | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Meals-Listing-Interface-API?style=flat-square) |
-| [Product-explorer-api](https://github.com/abdulrdeveloper/Product-explorer-api) | REST API backend for exploring and managing product data with efficient endpoints and flexible search. | CSS | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Product-explorer-api?style=flat-square) |
-| [first-contributions](https://github.com/abdulrdeveloper/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | — | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/first-contributions?style=flat-square) |
-| [cohort-2-Git-GitHub](https://github.com/abdulrdeveloper/cohort-2-Git-GitHub) | Beginner-friendly resources and exercises for mastering Git and GitHub version control, suitable for students and new developers. | JavaScript | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/cohort-2-Git-GitHub?style=flat-square) |
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 MOST USED LANGUAGES
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrdeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9A84C&text_color=ffffff&langs_count=8" width="60%" />
-</p>
-
----
-
-<div align="center">
-
-## 📈 GITHUB ANALYTICS
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrdeveloper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9A84C&icon_color=C9A84C&text_color=ffffff" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrdeveloper&theme=tokyonight&hide_border=true&background=0d1117&stroke=C9A84C&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=C9A84C&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrdeveloper&theme=react-dark&hide_border=true&bg_color=0d1117&color=C9A84C&line=C9A84C&point=ffffff&area=true&area_color=C9A84C" width="98%" />
-</p>
-
----
-
-<div align="center">
-
-## 🐍 CONTRIBUTION SNAKE (ALL YEARS)
-
-</div>
-
+<!-- SNAKE EATING CONTRIBUTIONS (all years) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/output/github-contribution-grid-snake.svg" />
+  <img alt="🐍 Snake eating my contributions" src="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/output/github-contribution-grid-snake.svg" width="98%" />
 </picture>
 
----
+</div>
 
+<br />
+
+<!-- ─────────────────────── 3D CONTRIB ─────────────────────── -->
 <div align="center">
 
-## 🏆 GITHUB TROPHIES
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=520&height=50&lines=%E2%97%88+%C2%A03D%C2%A0CONTRIBUTIONS%C2%A0+%E2%97%88" />
+</h2>
+
+<img src="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/main/profile-3d-contrib/profile-night-rainbow.svg" width="98%" />
 
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulrdeveloper&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
-</p>
+<br />
 
----
-
+<!-- ─────────────────────── TROPHIES ─────────────────────── -->
 <div align="center">
 
-## 📫 LET'S CONNECT
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=460&height=50&lines=%E2%97%88+%C2%A0TROPHIES%C2%A0+%E2%97%88" />
+</h2>
+
+<a href="https://github.com/abdulrdeveloper">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulrdeveloper&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews,Experience" width="98%" />
+</a>
 
 </div>
 
-<p align="center">
-  <a href="https://abdulrdeveloper.me"><img src="https://img.shields.io/badge/🌐_Portfolio-abdulrdeveloper.me-C9A84C?style=for-the-badge&labelColor=0d1117&logo=firefox&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/abdulrdeveloper"><img src="https://img.shields.io/badge/LinkedIn-Abdul_Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-  <a href="mailto:hire@abdulrdeveloper.me"><img src="https://img.shields.io/badge/Email-hire@abdulrdeveloper.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
-  <a href="https://twitter.com/abdulrdeveloper"><img src="https://img.shields.io/badge/Twitter-@abdulrdeveloper-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117"/></a>
-</p>
+<br />
 
----
-
+<!-- ─────────────────────── FEATURED PROJECTS ─────────────────────── -->
 <div align="center">
 
-```
-        ◈  CODE IS THE CONVERSATION.  ◈
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=3&width=100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=22,24,27&section=footer" width="100%"/>
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=580&height=50&lines=%E2%97%88+%C2%A0FEATURED%C2%A0PROJECTS%C2%A0+%E2%97%88" />
+</h2>
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://abdulrdeveloper.me">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrdeveloper&repo=portfolio&theme=transparent&bg_color=0d1117&title_color=d4a84c&icon_color=d4a84c&text_color=ffffff&border_color=d4a84c" />
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/abdulrdeveloper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrdeveloper&repo=tic-tac-toe&theme=transparent&bg_color=0d1117&title_color=d4a84c&icon_color=d4a84c&text_color=ffffff&border_color=d4a84c" />
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/abdulrdeveloper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrdeveloper&repo=kanban-board&theme=transparent&bg_color=0d1117&title_color=d4a84c&icon_color=d4a84c&text_color=ffffff&border_color=d4a84c" />
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/abdulrdeveloper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrdeveloper&repo=color-palette-generator&theme=transparent&bg_color=0d1117&title_color=d4a84c&icon_color=d4a84c&text_color=ffffff&border_color=d4a84c" />
+  </a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br />
+
+<!-- ─────────────────────── METRICS ─────────────────────── -->
+<div align="center">
+
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=460&height=50&lines=%E2%97%88+%C2%A0METRICS%C2%A0+%E2%97%88" />
+</h2>
+
+<img src="https://metrics.lecoq.io/abdulrdeveloper?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=1&languages=1&followup=1&isocalendar.duration=full-year&languages.ignored=html%2C+css&languages.skipped=&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.aliases=&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C+programming&languages.recent.categories=markup%2C+programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FKarachi" width="98%" />
+
+</div>
+
+<br />
+
+<!-- ─────────────────────── CONNECT ─────────────────────── -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=3&width=100%" />
+
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=520&height=50&lines=%E2%97%88+%C2%A0LET'S%C2%A0CONNECT%C2%A0+%E2%97%88" />
+</h2>
+
+<p>
+  <a href="https://abdulrdeveloper.me">
+    <img src="https://img.shields.io/badge/PORTFOLIO-d4a84c?style=for-the-badge&logo=googlechrome&logoColor=0d1117&labelColor=0d1117&color=d4a84c" />
+  </a>
+  <a href="mailto:abdulrdeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://twitter.com/abdulrdeveloper">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://linkedin.com/in/abdulrdeveloper">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://github.com/abdulrdeveloper">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  </a>
+</p>
+
+<br />
+
+<!-- QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
+
+<br /><br />
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a84c,50:1a1a2e,100:0d1117&height=180&section=footer&text=%E2%97%88%20%20CODE%20IS%20THE%20CONVERSATION%20%20%E2%97%88&fontColor=ffffff&fontSize=24&fontAlignY=75&animation=fadeIn" width="100%" />
+
+<sub>
+  ⭐ <b>If you like what you see, drop a star — it fuels the next 100 commits.</b><br/>
+  Built with ❤️ and ☕ by <a href="https://abdulrdeveloper.me"><b>Abdul Rahman</b></a> • <i>I'm a programmer, not just a coder.</i>
+</sub>
 
 </div>
