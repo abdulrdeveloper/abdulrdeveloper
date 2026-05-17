@@ -157,8 +157,6 @@
 
 <br />
 
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
-
 <div align="center">
 
 <h2>◈◈ &nbsp; GITHUB TROPHIES &nbsp; ◈◈</h2>
@@ -177,8 +175,6 @@
 
 <br />
 
-<!-- ═══════════════════ TECH ARSENAL ═══════════════════ -->
-
 <div align="center">
 <h2>◈◈ &nbsp; TECH ARSENAL &nbsp; ◈◈</h2>
 </div>
@@ -187,96 +183,87 @@
 
 <div align="center">
 
-<h3>── LANGUAGES ──</h3>
 
-<br />
+### ◈ &nbsp; LANGUAGES &nbsp; ◈
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0d1117&labelColor=0d1117&color=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
+<br/>
 
-</div>
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
 
-<br />
+<br/>
 
-<div align="center">
+---
 
-<h3>── FRONTEND ──</h3>
+### ◈ &nbsp; FRONTEND &nbsp; ◈
 
-<br />
+<br/>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0d1117&labelColor=0d1117&color=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=0d1117&labelColor=0d1117&color=ffffff" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/shadcn%2Fui-ffffff?style=for-the-badge&logo=shadcnui&logoColor=0d1117&labelColor=0d1117&color=ffffff" />
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 
-</div>
+<br/>
 
-<br />
+---
 
-<div align="center">
+### ◈ &nbsp; BACKEND & DATABASE &nbsp; ◈
 
-<h3>── BACKEND ──</h3>
+<br/>
 
-<br />
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-%23C5F74F.svg?style=flat-square&logo=drizzle&logoColor=black)
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=express&logoColor=0d1117&labelColor=0d1117&color=ffffff" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/REST_API-d4a84c?style=for-the-badge&labelColor=0d1117&color=d4a84c" />
+<br/>
 
-</div>
+---
 
-<br />
+### ◈ &nbsp; DEVOPS & DEPLOYMENT &nbsp; ◈
 
-<div align="center">
+<br/>
 
-<h3>── DATABASES ──</h3>
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat-square&logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=flat-square&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat-square&logo=githubactions&logoColor=white)
 
-<br />
+<br/>
 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" />
-</div>
+---
 
-<br />
+### ◈ &nbsp; TOOLS &nbsp; ◈
 
-<div align="center">
+<br/>
 
-<h3>── ☁️ DEVOPS & CLOUD ──</h3>
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
 
-<br />
+<br/>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117&color=ffffff" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" />
+---
 
-</div>
+### ◈ &nbsp; CURRENTLY LEARNING &nbsp; ◈
 
-<br />
+<br/>
 
-<div align="center">
+> *Touched in projects & actively exploring —*
 
-<h3>── 🛠️ TOOLS & DESIGN ──</h3>
+![Zod](https://img.shields.io/badge/Zod-%233068B7?style=flat-square&logo=zod&logoColor=white&labelColor=1a1f2e)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23010101?style=flat-square&logo=socket.io&logoColor=58a6ff&labelColor=1a1f2e)
+![JWT](https://img.shields.io/badge/JWT_Auth-%23000000?style=flat-square&logo=jsonwebtokens&logoColor=58a6ff&labelColor=1a1f2e)
+![REST API](https://img.shields.io/badge/REST_API-%23009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1f2e)
 
-<br />
+<br/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117&color=ffffff" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" />
-
-</div>
-
-<br />
+---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=3&width=100%" />
 
@@ -319,8 +306,6 @@
 
 <br />
 
-<!-- ═══════════════════ METRICS ═══════════════════ -->
-
 <div align="center">
 
 <h2>◈◈ &nbsp; METRICS &nbsp; ◈◈</h2>
@@ -337,35 +322,33 @@
 
 <br />
 
-<!-- ═══════════════════ LET'S CONNECT ═══════════════════ -->
-
 <div align="center">
 
 <h2>◈◈ &nbsp; LET'S CONNECT &nbsp; ◈◈</h2>
 
 <br /><br />
 
-<a href="https://abdulrdeveloper.me">
+<a href="https://abdulrdeveloper.me/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-d4a84c?style=for-the-badge&labelColor=0d1117&color=d4a84c" />
 </a>
 &nbsp;
-<a href="mailto:abdulrdeveloper@gmail.com">
+<a href="dev@abdulrdeveloper.me" target="_blank">
   <img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&labelColor=0d1117&color=EA4335" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/abdulrdeveloper">
+<a href="https://linkedin.com/in/abdulrdeveloper" target="_blank">
   <img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&labelColor=0d1117&color=0A66C2" />
 </a>
 &nbsp;
-<a href="https://twitter.com/abdulrdeveloper">
+<a href="https://twitter.com/abdulrdeveloper" target="_blank">
   <img src="https://img.shields.io/badge/🐦%20TWITTER-1DA1F2?style=for-the-badge&labelColor=0d1117&color=1DA1F2" />
 </a>
 &nbsp;
-<a href="https://github.com/abdulrdeveloper">
+<a href="https://github.com/abdulrdeveloper" target="_blank">
   <img src="https://img.shields.io/badge/🐙%20GITHUB-ffffff?style=for-the-badge&labelColor=0d1117&color=ffffff" />
 </a>
 &nbsp;
-<a href="https://abdulrdeveloper.hashnode.dev">
+<a href="https://abdulrdeveloper.hashnode.dev" target="_blank">
   <img src="https://img.shields.io/badge/📝%20BLOG-2962FF?style=for-the-badge&labelColor=0d1117&color=2962FF" />
 </a>
 
@@ -376,8 +359,6 @@
 </div>
 
 <br />
-
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0d1117,55:1a1a2e,85:16213e,100:d4a84c&height=220&section=footer&text=Code%20is%20The%20Conversation&fontColor=ffffff&fontSize=30&fontAlignY=62&fontAlign=50&animation=fadeIn" width="100%" />
 
