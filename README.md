@@ -261,9 +261,6 @@
 ![JWT](https://img.shields.io/badge/JWT_Auth-%23000000?style=flat-square&logo=jsonwebtokens&logoColor=58a6ff&labelColor=1a1f2e)
 ![REST API](https://img.shields.io/badge/REST_API-%23009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1f2e)
 
-<br/>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=3&width=100%" />
 
