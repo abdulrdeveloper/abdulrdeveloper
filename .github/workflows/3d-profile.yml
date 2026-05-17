@@ -25,9 +25,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ ! -d profile-3d-contrib ]; then
+            echo "::error::profile-3d-contrib directory was not generated."
+            exit 1
+          fi
           git add profile-3d-contrib
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "::notice::No 3D contribution updates to commit."
             exit 0
           fi
           git commit -m "chore: update 3d profile contribution graph"
