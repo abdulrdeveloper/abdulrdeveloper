@@ -10,7 +10,7 @@
 
 <br />
 
-<img src="./readme-data/hero-avatar.png" width="260" style="border-radius:50%; border: 4px solid #d4a84c; box-shadow: 0 0 40px rgba(212,168,76,0.6);" alt="Abdul Rahman" />
+<img src="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/main/readme-data/hero-avatar.png" width="260" style="border-radius:50%; border: 4px solid #d4a84c; box-shadow: 0 0 40px rgba(212,168,76,0.6);" alt="Abdul Rahman" />
 
 <br /><br />
 
@@ -47,10 +47,6 @@
 
 </div>
 
-<table align="center" width="100%">
-<tr>
-<td width="60%" valign="top">
-
 ```yaml
 name:         "Abdul Rahman"
 role:         "Full-Stack Developer & Programmer"
@@ -63,14 +59,9 @@ open_to:      "Freelance · Full-time · Collabs"
 fun_fact:     "I'm a programmer, not just a coder ⚡"
 ```
 
-</td>
-<td width="40%" valign="top" align="center">
-
+<div align="center">
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="220" />
-
-</td>
-</tr>
-</table>
+</div>
 
 <br />
 
