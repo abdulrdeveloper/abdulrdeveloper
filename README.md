@@ -34,10 +34,8 @@
 
 <br />
 
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%E2%97%88%E2%96%88%E2%96%88%20%C2%A0ABOUT%C2%A0ME%C2%A0%20%E2%96%88%E2%96%88%E2%97%88" />
+<h2>◈◈ ABOUT ME ◈◈</h2>
 </div>
 
 <br />
@@ -64,15 +62,12 @@
 
 <br />
 
-<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=600&height=50&lines=%E2%97%88%E2%96%88%E2%96%88%20%C2%A0GITHUB%C2%A0ANALYTICS%C2%A0%20%E2%96%88%E2%96%88%E2%97%88" />
+<h2>◈◈ &nbsp; GITHUB ANALYTICS &nbsp; ◈◈</h2>
 
 <br /><br />
 
-<!-- ── ROW 1: Stats (with A+ rank) + Languages ── -->
 <a href="https://github.com/abdulrdeveloper">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=abdulrdeveloper&show_icons=true&theme=transparent&bg_color=0d1117&title_color=d4a84c&icon_color=d4a84c&text_color=c9d1d9&border_color=d4a84c&border_radius=12&include_all_commits=true&count_private=true&rank_icon=letter&letter_colors=d4a84c,ff6b35,ffffff&show=reviews,prs_merged,prs_merged_percentage" />
   &nbsp;&nbsp;
@@ -81,21 +76,18 @@
 
 <br /><br />
 
-<!-- ── ROW 2: Streak Stats ── -->
 <a href="https://github.com/abdulrdeveloper">
   <img src="https://streak-stats.demolab.com?user=abdulrdeveloper&theme=transparent&background=0d1117&ring=d4a84c&fire=ff6b35&currStreakLabel=d4a84c&sideLabels=d4a84c&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=d4a84c&border_radius=12&date_format=j%20M%5B%20Y%5D" height="200" width="98%" />
 </a>
 
 <br /><br />
 
-<!-- ── ROW 3: Profile Summary Full Width ── -->
 <a href="https://github.com/abdulrdeveloper">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrdeveloper&theme=nord_dark" width="98%" />
 </a>
 
 <br /><br />
 
-<!-- ── ROW 4: 4 Summary Cards ── -->
 <a href="https://github.com/abdulrdeveloper">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrdeveloper&theme=nord_dark" height="175" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulrdeveloper&theme=nord_dark" height="175" />
@@ -111,11 +103,9 @@
 
 <br />
 
-<!-- ═══════════════════ CONTRIBUTION GRAPH ═══════════════════ -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=620&height=50&lines=%E2%97%88%E2%96%88%E2%96%88%20%C2%A0CONTRIBUTION%C2%A0GRAPH%C2%A0%20%E2%96%88%E2%96%88%E2%97%88" />
+<h2>◈◈ &nbsp; CONTRIBUTION GRAPH &nbsp; ◈◈</h2>
 
 <br /><br />
 
@@ -131,14 +121,10 @@
 
 <br />
 
-<!-- ═══════════════════ SNAKE ═══════════════════ -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=700&height=50&lines=%E2%97%88%E2%96%88%E2%96%88%20%C2%A0SNAKE%C2%A0EATING%C2%A0MY%C2%A0COMMITS%C2%A0%20%E2%96%88%E2%96%88%E2%97%88" />
+<h2>◈◈ &nbsp; MY COMMITS &nbsp; ◈◈</h2>
 
-<br />
-<sub><i>🐍 Every commit — all years combined</i></sub>
 <br /><br />
 
 <picture>
@@ -155,11 +141,9 @@
 
 <br />
 
-<!-- ═══════════════════ 3D CONTRIBUTIONS ═══════════════════ -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=600&height=50&lines=%E2%97%88%E2%96%88%E2%96%88%20%C2%A03D%C2%A0CONTRIBUTION%C2%A0WALL%C2%A0%20%E2%96%88%E2%96%88%E2%97%88" />
+<h2>◈◈ &nbsp; 3D CONTRIBUTION WALL &nbsp; ◈◈</h2>
 
 <br /><br />
 
@@ -177,7 +161,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%E2%97%88%E2%96%88%E2%96%88%20%C2%A0GITHUB%C2%A0TROPHIES%C2%A0%20%E2%96%88%E2%96%88%E2%97%88" />
+<h2>◈◈ &nbsp; GITHUB TROPHIES &nbsp; ◈◈</h2>
 
 <br /><br />
 
@@ -196,21 +180,19 @@
 <!-- ═══════════════════ TECH ARSENAL ═══════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=560&height=50&lines=%E2%97%88%E2%96%88%E2%96%88%20%C2%A0TECH%C2%A0ARSENAL%C2%A0%20%E2%96%88%E2%96%88%E2%97%88" />
+<h2>◈◈ &nbsp; TECH ARSENAL &nbsp; ◈◈</h2>
 </div>
 
 <br />
 
-<!-- ── 💻 LANGUAGES ── -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=99999&pause=0&color=8b949e&center=true&vCenter=true&repeat=false&width=380&height=32&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%20%F0%9F%92%BB%20LANGUAGES%20%E2%94%80%E2%94%80%E2%94%80%E2%94%90" />
+<h3>── LANGUAGES ──</h3>
 
 <br />
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0d1117&labelColor=0d1117&color=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
@@ -219,10 +201,9 @@
 
 <br />
 
-<!-- ── 🎨 FRONTEND ── -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=99999&pause=0&color=61DAFB&center=true&vCenter=true&repeat=false&width=380&height=32&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%20%F0%9F%8E%A8%20FRONTEND%20%E2%94%80%E2%94%80%E2%94%80%E2%94%90" />
+<h3>── FRONTEND ──</h3>
 
 <br />
 
@@ -238,10 +219,9 @@
 
 <br />
 
-<!-- ── ⚙️ BACKEND ── -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=99999&pause=0&color=339933&center=true&vCenter=true&repeat=false&width=380&height=32&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%20%E2%9A%99%EF%B8%8F%20BACKEND%20%E2%94%80%E2%94%80%E2%94%80%E2%94%90" />
+<h3>── BACKEND ──</h3>
 
 <br />
 
@@ -257,57 +237,42 @@
 
 <br />
 
-<!-- ── 🗄️ DATABASES ── -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=99999&pause=0&color=47A248&center=true&vCenter=true&repeat=false&width=380&height=32&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%20%F0%9F%97%84%EF%B8%8F%20DATABASES%20%E2%94%80%E2%94%80%E2%94%80%E2%94%90" />
+<h3>── DATABASES ──</h3>
 
 <br />
 
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=0d1117&labelColor=0d1117&color=FFCA28" />
-
 </div>
 
 <br />
 
-<!-- ── ☁️ DEVOPS & CLOUD ── -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=99999&pause=0&color=2496ED&center=true&vCenter=true&repeat=false&width=420&height=32&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%20%E2%98%81%EF%B8%8F%20DEVOPS%20%26%20CLOUD%20%E2%94%80%E2%94%80%E2%94%80%E2%94%90" />
+<h3>── ☁️ DEVOPS & CLOUD ──</h3>
 
 <br />
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117&color=ffffff" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" />
 
 </div>
 
 <br />
 
-<!-- ── 🛠️ TOOLS & DESIGN ── -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=99999&pause=0&color=F05032&center=true&vCenter=true&repeat=false&width=420&height=32&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%20%F0%9F%9B%A0%EF%B8%8F%20TOOLS%20%26%20DESIGN%20%E2%94%80%E2%94%80%E2%94%80%E2%94%90" />
+<h3>── 🛠️ TOOLS & DESIGN ──</h3>
 
 <br />
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117&color=ffffff" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=0d1117&labelColor=0d1117&color=ffffff" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0d1117&labelColor=0d1117&color=FCC624" />
 
 </div>
 
@@ -317,11 +282,10 @@
 
 <br />
 
-<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=620&height=50&lines=%E2%97%88%E2%96%88%E2%96%88%20%C2%A0FEATURED%C2%A0PROJECTS%C2%A0%20%E2%96%88%E2%96%88%E2%97%88" />
+<h2>◈◈ &nbsp; FEATURED PROJECTS &nbsp; ◈◈</h2>
 
 <br /><br />
 
@@ -359,7 +323,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=460&height=50&lines=%E2%97%88%E2%96%88%E2%96%88%20%C2%A0METRICS%C2%A0%20%E2%96%88%E2%96%88%E2%97%88" />
+<h2>◈◈ &nbsp; METRICS &nbsp; ◈◈</h2>
 
 <br /><br />
 
@@ -377,7 +341,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=540&height=50&lines=%E2%97%88%E2%96%88%E2%96%88%20%C2%A0LET%27S%C2%A0CONNECT%C2%A0%20%E2%96%88%E2%96%88%E2%97%88" />
+<h2>◈◈ &nbsp; LET'S CONNECT &nbsp; ◈◈</h2>
 
 <br /><br />
 
