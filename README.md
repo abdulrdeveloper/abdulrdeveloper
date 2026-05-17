@@ -69,14 +69,6 @@
 <br /><br />
 
 <a href="https://github.com/abdulrdeveloper">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=abdulrdeveloper&show_icons=true&theme=transparent&bg_color=0d1117&title_color=d4a84c&icon_color=d4a84c&text_color=c9d1d9&border_color=d4a84c&border_radius=12&include_all_commits=true&count_private=true&rank_icon=letter&letter_colors=d4a84c,ff6b35,ffffff&show=reviews,prs_merged,prs_merged_percentage" />
-  &nbsp;&nbsp;
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrdeveloper&layout=compact&theme=transparent&bg_color=0d1117&title_color=d4a84c&text_color=c9d1d9&border_color=d4a84c&border_radius=12&langs_count=8" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/abdulrdeveloper">
   <img src="https://streak-stats.demolab.com?user=abdulrdeveloper&theme=transparent&background=0d1117&ring=d4a84c&fire=ff6b35&currStreakLabel=d4a84c&sideLabels=d4a84c&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=d4a84c&border_radius=12&date_format=j%20M%5B%20Y%5D" height="200" width="98%" />
 </a>
 
@@ -176,7 +168,7 @@
 <br />
 
 <div align="center">
-<h2>◈◈ &nbsp; TECH ARSENAL &nbsp; ◈◈</h2>
+<h2>◈◈ &nbsp; TECH STACK &nbsp; ◈◈</h2>
 </div>
 
 <br />
@@ -266,42 +258,6 @@
 
 <br />
 
-
-<div align="center">
-
-<h2>◈◈ &nbsp; FEATURED PROJECTS &nbsp; ◈◈</h2>
-
-<br /><br />
-
-<a href="https://github.com/abdulrdeveloper/cohort-2-Git-GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrdeveloper&repo=cohort-2-Git-GitHub&theme=transparent&bg_color=0d1117&title_color=d4a84c&icon_color=d4a84c&text_color=c9d1d9&border_color=d4a84c&border_radius=12" />
-</a>
-<a href="https://github.com/abdulrdeveloper/Mintlify-Clone-Cohort-2026">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrdeveloper&repo=Mintlify-Clone-Cohort-2026&theme=transparent&bg_color=0d1117&title_color=d4a84c&icon_color=d4a84c&text_color=c9d1d9&border_color=d4a84c&border_radius=12" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/abdulrdeveloper/Cusror-Clone-Cohort-2026">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrdeveloper&repo=Cusror-Clone-Cohort-2026&theme=transparent&bg_color=0d1117&title_color=d4a84c&icon_color=d4a84c&text_color=c9d1d9&border_color=d4a84c&border_radius=12" />
-</a>
-<a href="https://github.com/abdulrdeveloper/Todo-List-App-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrdeveloper&repo=Todo-List-App-Project&theme=transparent&bg_color=0d1117&title_color=d4a84c&icon_color=d4a84c&text_color=c9d1d9&border_color=d4a84c&border_radius=12" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/abdulrdeveloper?tab=repositories">
-  <img src="https://img.shields.io/badge/⚡%20VIEW%20ALL%20REPOSITORIES-d4a84c?style=for-the-badge&labelColor=0d1117&color=d4a84c" />
-</a>
-
-</div>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=3&width=100%" />
-
-<br />
 
 <div align="center">
 
