@@ -288,7 +288,7 @@ fun_fact:     "I'm a programmer, not just a coder ⚡"
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=99999&pause=0&color=D4A84C&center=true&vCenter=true&repeat=false&width=460&height=50&lines=%E2%97%88+%C2%A0METRICS%C2%A0+%E2%97%88" />
 </h2>
 
-<img src="https://metrics.lecoq.io/abdulrdeveloper?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=1&languages=1&followup=1&isocalendar.duration=full-year&languages.ignored=html%2C+css&languages.skipped=&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.aliases=&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C+programming&languages.recent.categories=markup%2C+programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FKarachi" width="98%" />
+<img src="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/output/metrics.svg" width="98%" />
 
 </div>
 
