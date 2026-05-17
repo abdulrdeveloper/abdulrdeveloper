@@ -30,10 +30,6 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=3&width=100%" />
-
-<br />
-
 <div align="center">
 <h2>◈◈ ABOUT ME ◈◈</h2>
 </div>
@@ -55,10 +51,6 @@
 ║  superpower  →  I'm a programmer, not just a coder ⚡        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=3&width=100%" />
 
 <br />
 
@@ -91,9 +83,6 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=3&width=100%" />
-
-<br />
 
 <div align="center">
 
@@ -106,10 +95,6 @@
 </a>
 
 </div>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=3&width=100%" />
 
 <br />
 
@@ -126,10 +111,6 @@
 </picture>
 
 </div>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=3&width=100%" />
 
 <br />
 
@@ -160,10 +141,6 @@
 </a>
 
 </div>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=3&width=100%" />
 
 <br />
 
@@ -261,22 +238,6 @@
 
 <div align="center">
 
-<h2>◈◈ &nbsp; METRICS &nbsp; ◈◈</h2>
-
-<br /><br />
-
-<img src="https://metrics.lecoq.io/abdulrdeveloper?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=1&languages=1&followup=1&isocalendar.duration=full-year&languages.ignored=html%2Ccss&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2Cprogramming&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FKarachi" width="98%" />
-
-</div>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=3&width=100%" />
-
-<br />
-
-<div align="center">
-
 <h2>◈◈ &nbsp; LET'S CONNECT &nbsp; ◈◈</h2>
 
 <br /><br />
@@ -306,10 +267,6 @@
 </a>
 
 <br /><br />
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
-
-</div>
 
 <br />
 
