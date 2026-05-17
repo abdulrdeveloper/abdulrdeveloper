@@ -26,7 +26,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if [ ! -d profile-3d-contrib ]; then
-            echo "::error::profile-3d-contrib directory was not generated."
+            echo "::error::profile-3d-contrib directory was not generated. Check whether yoshi389111/github-profile-3d-contrib completed successfully and USERNAME is correct."
             exit 1
           fi
           git add profile-3d-contrib
