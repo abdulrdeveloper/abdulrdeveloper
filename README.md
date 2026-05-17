@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20&text=ABDUL%20RAHMAN&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Modern%20Web%20Apps%20%7C%20Open%20Source&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=22,24,27&text=ABDUL%20RAHMAN&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Modern%20Web%20Apps%20%7C%20Open%20Source&descSize=20&descAlignY=55" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=SYSTEM+INITIALIZING...;LOADING+TECH+STACK...;DEVELOPER+MODE+ACTIVATED;React+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL;Building+clean%2C+scalable+web+applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=C9A84C&center=true&vCenter=true&width=900&lines=SYSTEM+INITIALIZING...;LOADING+TECH+STACK...;DEVELOPER+MODE+ACTIVATED;React+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL;Building+clean%2C+scalable+web+applications" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/◉_OPEN_TO_WORK-238636?style=for-the-badge&labelColor=0d1117&color=238636" />
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-00D9FF?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-C9A84C?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <p>
-  <a href="https://abdulrdeveloper.me"><img src="https://img.shields.io/badge/🌐_Portfolio-abdulrdeveloper.me-00D9FF?style=for-the-badge&labelColor=0d1117"/></a>
+  <a href="https://abdulrdeveloper.me"><img src="https://img.shields.io/badge/🌐_Portfolio-abdulrdeveloper.me-C9A84C?style=for-the-badge&labelColor=0d1117"/></a>
   <a href="https://linkedin.com/in/abdulrdeveloper"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
   <a href="mailto:hire@abdulrdeveloper.me"><img src="https://img.shields.io/badge/Email-hire@abdulrdeveloper.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
   <a href="https://twitter.com/abdulrdeveloper"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117"/></a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=abdulrdeveloper&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/followers/abdulrdeveloper?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS&logo=github" />
-  <img src="https://img.shields.io/github/stars/abdulrdeveloper?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=TOTAL+STARS&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=abdulrdeveloper&label=PROFILE+VIEWS&color=C9A84C&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/abdulrdeveloper?style=for-the-badge&color=C9A84C&labelColor=0d1117&label=FOLLOWERS&logo=github" />
+  <img src="https://img.shields.io/github/stars/abdulrdeveloper?style=for-the-badge&color=C9A84C&labelColor=0d1117&label=TOTAL+STARS&logo=github" />
 </p>
 
 </div>
@@ -32,15 +32,40 @@
 
 </div>
 
+<div align="center">
+
 **Full‑stack developer** focused on building clean, scalable web applications and shipping real products. I love crafting modern UI, connecting robust backends, and polishing performance and UX.
 
 **Core focus:** React • Node.js • TypeScript • PostgreSQL • Tailwind • Vite
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🛠️ TECH STACK
+## 🧭 PROFESSIONAL SCOREBOARD
+
+</div>
+
+<div align="center">
+
+| Category | Grade |
+|---|---|
+| Frontend Excellence | **A+** |
+| Backend Engineering | **A** |
+| DevOps & Deployment | **A** |
+| UI/UX Craftsmanship | **A+** |
+| Code Quality | **A** |
+| Communication & Collaboration | **A** |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ TECH STACK (SEPARATE CATEGORIES)
 
 </div>
 
@@ -48,9 +73,9 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,tailwind,postgres,git,github,docker,vercel,vscode,postman,vite&perline=12" />
 </p>
 
-<details open>
-<summary><b>Languages & Core</b></summary>
-<br/>
+<div align="center">
+
+**Languages & Core**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -58,33 +83,21 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>Frontend</b></summary>
-<br/>
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>Backend & Database</b></summary>
-<br/>
+**Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
-</details>
-
-<details open>
-<summary><b>DevOps & Tools</b></summary>
-<br/>
+**DevOps & Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -92,7 +105,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</details>
+</div>
 
 ---
 
@@ -102,35 +115,39 @@
 
 </div>
 
-| Project | Live Demo | Repository | Stars |
-|---|---|---|---|
-| **Portfolio** | [View](https://abdulrdeveloper.me) | [abdulrdeveloper](https://github.com/abdulrdeveloper/abdulrdeveloper) | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/abdulrdeveloper?style=flat-square) |
-| **Tic Tac Toe X** | [View](https://tictactoe-x.vercel.app) | [React--Tic-Tac-Toe](https://github.com/abdulrdeveloper/React--Tic-Tac-Toe) | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/React--Tic-Tac-Toe?style=flat-square) |
-| **Kanban Board** | [View](https://modern-kanban-board.vercel.app) | [kanban-Board](https://github.com/abdulrdeveloper/kanban-Board) | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/kanban-Board?style=flat-square) |
-| **Dynamic List Creator** | [View](https://dynamic-list-creator-project.vercel.app) | [Dynamic-List-Creator](https://github.com/abdulrdeveloper/Dynamic-List-Creator) | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Dynamic-List-Creator?style=flat-square) |
-| **Dynamic Toggle Button** | [View](https://dynamic-toggle-button.vercel.app) | [Dynamic-Toggle-Button](https://github.com/abdulrdeveloper/Dynamic-Toggle-Button) | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Dynamic-Toggle-Button?style=flat-square) |
-| **Todo List App** | [View](https://todo-list-app-project-js.vercel.app) | [Todo-List-App-Project](https://github.com/abdulrdeveloper/Todo-List-App-Project) | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Todo-List-App-Project?style=flat-square) |
-| **Color Palette Generator** | [View](https://color-palette-kit.vercel.app) | [Color-Palette-Generator](https://github.com/abdulrdeveloper/Color-Palette-Generator) | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Color-Palette-Generator?style=flat-square) |
-| **Cursor Clone** | [View](https://cusror-clone-cohort-2026.vercel.app) | [Cusror-Clone-Cohort-2026](https://github.com/abdulrdeveloper/Cusror-Clone-Cohort-2026) | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Cusror-Clone-Cohort-2026?style=flat-square) |
-| **Mintlify Clone** | [View](https://mintlify-clone-cohort-2026.vercel.app) | [Mintlify-Clone-Cohort-2026](https://github.com/abdulrdeveloper/Mintlify-Clone-Cohort-2026) | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Mintlify-Clone-Cohort-2026?style=flat-square) |
-| **Portfolio (HTML)** | [View](https://portfolio-assignment-cohort-2026.vercel.app) | [portfolio-assignment-using-html](https://github.com/abdulrdeveloper/portfolio-assignment-using-html) | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/portfolio-assignment-using-html?style=flat-square) |
-| **ChaiLearn** | [View](https://chailearn.vercel.app) | [chailearn](https://github.com/abdulrdeveloper/chailearn) | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/chailearn?style=flat-square) |
-| **Random Users UI** | [View](https://user-card-freeapi.vercel.app) | [user-card-freeapi](https://github.com/abdulrdeveloper/user-card-freeapi) | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/user-card-freeapi?style=flat-square) |
-| **Cat Viewer** | [View](https://cat-viewer-app.vercel.app) | [Cat-Viewer-API](https://github.com/abdulrdeveloper/Cat-Viewer-API) | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Cat-Viewer-API?style=flat-square) |
-| **Jokes Viewer** | [View](https://jokes-viewers.vercel.app) | [Jokes-Viewer-Application](https://github.com/abdulrdeveloper/Jokes-Viewer-Application) | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Jokes-Viewer-Application?style=flat-square) |
-| **Quotes Listing** | [View](https://quotes-listing-freeapi.vercel.app) | [Quotes-Listing-Application](https://github.com/abdulrdeveloper/Quotes-Listing-Application) | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Quotes-Listing-Application?style=flat-square) |
-| **Meals Explorer** | [View](https://meals-freeapi.vercel.app) | [Meals-Listing-Interface-API](https://github.com/abdulrdeveloper/Meals-Listing-Interface-API) | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Meals-Listing-Interface-API?style=flat-square) |
-| **Product Explorer** | [View](https://product-explorer-api.vercel.app) | [Product-explorer-api](https://github.com/abdulrdeveloper/Product-explorer-api) | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Product-explorer-api?style=flat-square) |
+<div align="center">
+
+| Project | Live Demo | Repository | Grade | Stars |
+|---|---|---|---|---|
+| **Portfolio** | [View](https://abdulrdeveloper.me) | [abdulrdeveloper](https://github.com/abdulrdeveloper/abdulrdeveloper) | **A+** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/abdulrdeveloper?style=flat-square) |
+| **Tic Tac Toe X** | [View](https://tictactoe-x.vercel.app) | [React--Tic-Tac-Toe](https://github.com/abdulrdeveloper/React--Tic-Tac-Toe) | **A** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/React--Tic-Tac-Toe?style=flat-square) |
+| **Kanban Board** | [View](https://modern-kanban-board.vercel.app) | [kanban-Board](https://github.com/abdulrdeveloper/kanban-Board) | **A** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/kanban-Board?style=flat-square) |
+| **Dynamic List Creator** | [View](https://dynamic-list-creator-project.vercel.app) | [Dynamic-List-Creator](https://github.com/abdulrdeveloper/Dynamic-List-Creator) | **B+** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Dynamic-List-Creator?style=flat-square) |
+| **Dynamic Toggle Button** | [View](https://dynamic-toggle-button.vercel.app) | [Dynamic-Toggle-Button](https://github.com/abdulrdeveloper/Dynamic-Toggle-Button) | **B+** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Dynamic-Toggle-Button?style=flat-square) |
+| **Todo List App** | [View](https://todo-list-app-project-js.vercel.app) | [Todo-List-App-Project](https://github.com/abdulrdeveloper/Todo-List-App-Project) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Todo-List-App-Project?style=flat-square) |
+| **Color Palette Generator** | [View](https://color-palette-kit.vercel.app) | [Color-Palette-Generator](https://github.com/abdulrdeveloper/Color-Palette-Generator) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Color-Palette-Generator?style=flat-square) |
+| **Cursor Clone** | [View](https://cusror-clone-cohort-2026.vercel.app) | [Cusror-Clone-Cohort-2026](https://github.com/abdulrdeveloper/Cusror-Clone-Cohort-2026) | **B+** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Cusror-Clone-Cohort-2026?style=flat-square) |
+| **Mintlify Clone** | [View](https://mintlify-clone-cohort-2026.vercel.app) | [Mintlify-Clone-Cohort-2026](https://github.com/abdulrdeveloper/Mintlify-Clone-Cohort-2026) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Mintlify-Clone-Cohort-2026?style=flat-square) |
+| **Portfolio (HTML)** | [View](https://portfolio-assignment-cohort-2026.vercel.app) | [portfolio-assignment-using-html](https://github.com/abdulrdeveloper/portfolio-assignment-using-html) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/portfolio-assignment-using-html?style=flat-square) |
+| **ChaiLearn** | [View](https://chailearn.vercel.app) | [chailearn](https://github.com/abdulrdeveloper/chailearn) | **A** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/chailearn?style=flat-square) |
+| **Random Users UI** | [View](https://user-card-freeapi.vercel.app) | [user-card-freeapi](https://github.com/abdulrdeveloper/user-card-freeapi) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/user-card-freeapi?style=flat-square) |
+| **Cat Viewer** | [View](https://cat-viewer-app.vercel.app) | [Cat-Viewer-API](https://github.com/abdulrdeveloper/Cat-Viewer-API) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Cat-Viewer-API?style=flat-square) |
+| **Jokes Viewer** | [View](https://jokes-viewers.vercel.app) | [Jokes-Viewer-Application](https://github.com/abdulrdeveloper/Jokes-Viewer-Application) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Jokes-Viewer-Application?style=flat-square) |
+| **Quotes Listing** | [View](https://quotes-listing-freeapi.vercel.app) | [Quotes-Listing-Application](https://github.com/abdulrdeveloper/Quotes-Listing-Application) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Quotes-Listing-Application?style=flat-square) |
+| **Meals Explorer** | [View](https://meals-freeapi.vercel.app) | [Meals-Listing-Interface-API](https://github.com/abdulrdeveloper/Meals-Listing-Interface-API) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Meals-Listing-Interface-API?style=flat-square) |
+| **Product Explorer** | [View](https://product-explorer-api.vercel.app) | [Product-explorer-api](https://github.com/abdulrdeveloper/Product-explorer-api) | **B** | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/Product-explorer-api?style=flat-square) |
+
+</div>
 
 ---
 
 <div align="center">
 
-## 📚 ALL PUBLIC REPOSITORIES
+## 📚 ALL PUBLIC REPOSITORIES (LIVE STARS)
 
 </div>
 
-> Auto-synced from public GitHub repos (stars update live).
+<div align="center">
 
 | Repository | Description | Language | Stars |
 |---|---|---|---|
@@ -163,6 +180,20 @@
 | [first-contributions](https://github.com/abdulrdeveloper/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | — | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/first-contributions?style=flat-square) |
 | [cohort-2-Git-GitHub](https://github.com/abdulrdeveloper/cohort-2-Git-GitHub) | Beginner-friendly resources and exercises for mastering Git and GitHub version control, suitable for students and new developers. | JavaScript | ![Stars](https://img.shields.io/github/stars/abdulrdeveloper/cohort-2-Git-GitHub?style=flat-square) |
 
+</div>
+
+---
+
+<div align="center">
+
+## 📊 MOST USED LANGUAGES
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrdeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9A84C&text_color=ffffff&langs_count=8" width="60%" />
+</p>
+
 ---
 
 <div align="center">
@@ -172,17 +203,27 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrdeveloper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrdeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrdeveloper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9A84C&icon_color=C9A84C&text_color=ffffff" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrdeveloper&theme=tokyonight&hide_border=true&background=0d1117&stroke=C9A84C&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=C9A84C&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrdeveloper&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrdeveloper&theme=react-dark&hide_border=true&bg_color=0d1117&color=C9A84C&line=C9A84C&point=ffffff&area=true&area_color=C9A84C" width="98%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrdeveloper&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" width="98%" />
-</p>
+---
+
+<div align="center">
+
+## 🐍 CONTRIBUTION SNAKE (ALL YEARS)
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -205,10 +246,20 @@
 </div>
 
 <p align="center">
-  <a href="https://abdulrdeveloper.me"><img src="https://img.shields.io/badge/🌐_Portfolio-abdulrdeveloper.me-00D9FF?style=for-the-badge&labelColor=0d1117&logo=firefox&logoColor=white"/></a>
+  <a href="https://abdulrdeveloper.me"><img src="https://img.shields.io/badge/🌐_Portfolio-abdulrdeveloper.me-C9A84C?style=for-the-badge&labelColor=0d1117&logo=firefox&logoColor=white"/></a>
   <a href="https://linkedin.com/in/abdulrdeveloper"><img src="https://img.shields.io/badge/LinkedIn-Abdul_Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
   <a href="mailto:hire@abdulrdeveloper.me"><img src="https://img.shields.io/badge/Email-hire@abdulrdeveloper.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
   <a href="https://twitter.com/abdulrdeveloper"><img src="https://img.shields.io/badge/Twitter-@abdulrdeveloper-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,20&section=footer" width="100%"/>
+---
+
+<div align="center">
+
+```
+        ◈  CODE IS THE CONVERSATION.  ◈
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=22,24,27&section=footer" width="100%"/>
+
+</div>
