@@ -4,7 +4,7 @@
 
 <br />
 
-<a href="https://abdulrdeveloper.me">
+<a href="https://abdulrdeveloper.me" target="_blank">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=D4A84C&center=true&vCenter=true&multiline=false&width=800&height=55&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Rahman;Full-Stack+Developer+%7C+Open+Source+Enthusiast;Building+scalable+APIs+%26+modern+web+apps" />
 </a>
 
@@ -36,7 +36,7 @@
     18-year-old Full-Stack Developer from Pakistan. 1+ year building with React, Node.js, PostgreSQL & Tailwind. Currently diving deep into backend architecture, API security & scalable systems.
   </p>
   
-  <a href="mailto:dev@abdulrdeveloper.me">
+  <a href="mailto:dev@abdulrdeveloper.me" target="_blank">
     <img src="https://img.shields.io/badge/Open_To_Work_&_Internships-0d1117?style=for-the-badge&logo=mail.ru&logoColor=58a6ff&color=0d1117&labelColor=0d1117&borderColor=58a6ff" border="1" alt="Looking for work" />
   </a>
 </div>
@@ -47,19 +47,19 @@
 <h2>◈◈ &nbsp; GITHUB ANALYTICS &nbsp; ◈◈</h2>
 <br />
 
-<a href="https://github.com/abdulrdeveloper">
+<a href="https://github.com/abdulrdeveloper" target="_blank">
   <img src="https://streak-stats.demolab.com?user=abdulrdeveloper&theme=transparent&background=0d1117&ring=d4a84c&fire=ff6b35&currStreakLabel=d4a84c&sideLabels=d4a84c&currStreakNum=ffffff&sideNums=ffffff&dates=808080&hide_border=true" />
 </a>
 
 <br /><br />
 
-<a href="https://github.com/abdulrdeveloper">
+<a href="https://github.com/abdulrdeveloper" target="_blank">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrdeveloper&theme=nord_dark&cache_seconds=300" width="98%" />
 </a>
 
 <br /><br />
 
-<a href="https://github.com/abdulrdeveloper">
+<a href="https://github.com/abdulrdeveloper" target="_blank">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrdeveloper&theme=nord_dark&cache_seconds=300" height="175" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulrdeveloper&theme=nord_dark&utcOffset=5&cache_seconds=300" height="175" />
 </a>
@@ -71,7 +71,7 @@
 <h2>◈◈ &nbsp; CONTRIBUTION GRAPH &nbsp; ◈◈</h2>
 <br />
 
-<a href="https://github.com/abdulrdeveloper">
+<a href="https://github.com/abdulrdeveloper" target="_blank">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrdeveloper&bg_color=0d1117&color=d4a84c&line=d4a84c&point=ffffff&area=true&area_color=d4a84c&hide_border=false&border_color=d4a84c&hide_title=true&custom_title=Contributions&theme=github" width="98%" />
 </a>
 
@@ -165,7 +165,7 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/abdulrdeveloper?tab=repositories">
+  <a href="https://github.com/abdulrdeveloper?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Explore_All_Projects_%E2%9F%B6-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&color=0d1117&labelColor=0d1117&borderColor=58a6ff" alt="Explore More Projects" />
   </a>
 </div>
