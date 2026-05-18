@@ -100,44 +100,44 @@
 
 
 ### ◈ &nbsp; LANGUAGES &nbsp; ◈
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" width="110" height="32" />
-<img src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white" alt="CSS" width="110" height="32" />
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" width="130" height="32" />
-<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white" alt="TypeScript" width="130" height="32" />
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" width="106" height="28" />
+<img src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white" alt="CSS" width="106" height="28" />
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" width="126" height="28" />
+<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white" alt="TypeScript" width="126" height="28" />
 
 
 ### ◈ &nbsp; FRONTEND &nbsp; ◈
-<img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black" alt="React" width="120" height="32" />
-<img src="https://img.shields.io/badge/Tailwind-%2306B6D4.svg?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" width="120" height="32" />
-<img src="https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white" alt="Vite" width="110" height="32" />
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black" alt="React" width="116" height="28" />
+<img src="https://img.shields.io/badge/Tailwind-%2306B6D4.svg?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" width="116" height="28" />
+<img src="https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white" alt="Vite" width="106" height="28" />
 
 
 ### ◈ &nbsp; BACKEND & DATABASE &nbsp; ◈
-<img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white" alt="Node.js" width="120" height="32" />
-<img src="https://img.shields.io/badge/Express-%23000000.svg?logo=express&logoColor=white" alt="Express" width="120" height="32" />
-<img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" width="130" height="32" />
-<img src="https://img.shields.io/badge/Drizzle_ORM-%23C5F74F.svg?logo=drizzle&logoColor=black" alt="Drizzle ORM" width="140" height="32" />
+<img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white" alt="Node.js" width="116" height="28" />
+<img src="https://img.shields.io/badge/Express-%23000000.svg?logo=express&logoColor=white" alt="Express" width="116" height="28" />
+<img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" width="126" height="28" />
+<img src="https://img.shields.io/badge/Drizzle_ORM-%23C5F74F.svg?logo=drizzle&logoColor=black" alt="Drizzle ORM" width="136" height="28" />
 
 
 ### ◈ &nbsp; DEVOPS & DEPLOYMENT &nbsp; ◈
-<img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" alt="Git" width="110" height="32" />
-<img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" alt="Docker" width="120" height="32" />
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel" width="110" height="32" />
-<img src="https://img.shields.io/badge/Railway-%230B0D0E.svg?logo=railway&logoColor=white" alt="Railway" width="120" height="32" />
-<img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?logo=githubactions&logoColor=white" alt="GitHub Actions" width="150" height="32" />
+<img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" alt="Git" width="106" height="28" />
+<img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" alt="Docker" width="116" height="28" />
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel" width="106" height="28" />
+<img src="https://img.shields.io/badge/Railway-%230B0D0E.svg?logo=railway&logoColor=white" alt="Railway" width="116" height="28" />
+<img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?logo=githubactions&logoColor=white" alt="GitHub Actions" width="146" height="28" />
 
 
 ### ◈ &nbsp; TOOLS &nbsp; ◈
-<img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?logo=visualstudiocode&logoColor=white" alt="VS Code" width="120" height="32" />
-<img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white" alt="Postman" width="120" height="32" />
+<img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?logo=visualstudiocode&logoColor=white" alt="VS Code" width="116" height="28" />
+<img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white" alt="Postman" width="116" height="28" />
 
 
 ### ◈ &nbsp; CURRENTLY LEARNING &nbsp; ◈
 > _Diving deep into modern API architecture and backend security_ ☕
 
-<img src="https://img.shields.io/badge/Zod-%233068B7?logo=zod&logoColor=white&labelColor=1a1f2e" alt="Zod" width="110" height="32" />
-<img src="https://img.shields.io/badge/JWT_Auth-%23000000?logo=jsonwebtokens&logoColor=58a6ff&labelColor=1a1f2e" alt="JWT" width="120" height="32" />
-<img src="https://img.shields.io/badge/REST_API-%23009688?logo=fastapi&logoColor=white&labelColor=1a1f2e" alt="REST API" width="120" height="32" />
+<img src="https://img.shields.io/badge/Zod-%233068B7?logo=zod&logoColor=white&labelColor=1a1f2e" alt="Zod" width="106" height="28" />
+<img src="https://img.shields.io/badge/JWT_Auth-%23000000?logo=jsonwebtokens&logoColor=58a6ff&labelColor=1a1f2e" alt="JWT" width="116" height="28" />
+<img src="https://img.shields.io/badge/REST_API-%23009688?logo=fastapi&logoColor=white&labelColor=1a1f2e" alt="REST API" width="116" height="28" />
 
 </div>
 
