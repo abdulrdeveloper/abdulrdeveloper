@@ -1,0 +1,27 @@
+name: Update README
+
+on:
+schedule:
+- cron: "*/5 * * * *"
+workflow_dispatch:
+
+jobs:
+refresh:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - uses: actions/checkout@v4
+
+  - name: Update timestamp
+    run: |
+      echo "Last Updated: $(date)" > timestamp.txt
+
+  - name: Commit changes
+    run: |
+      git config --global user.name "github-actions"
+      git config --global user.email "actions@github.com"
+      git add .
+      git commit -m "Auto update README" || echo "No changes"
+      git push
+```
