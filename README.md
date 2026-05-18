@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0d1117,55:1a1a2e,85:16213e,100:d4a84c&height=300&section=header&text=WELL%20COME&fontColor=ffffff&fontSize=72&fontAlign=50&fontAlignY=35&desc=Welcome%20to%20my%20digital%20forge&descAlign=50&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0d1117,55:1a1a2e,85:16213e,100:d4a84c&height=300&section=header&text=WELCOME&fontColor=ffffff&fontSize=72&fontAlign=50&fontAlignY=35&desc=Code.%20Build.%20Ship.%20Repeat.&descAlign=50&descAlignY=55&descSize=20&animation=fadeIn" width="100%" />
 
 <br />
 
 <a href="https://abdulrdeveloper.me">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=D4A84C&center=true&vCenter=true&multiline=false&width=800&height=55&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Rahman;Full-Stack+Developer+%7C+Open+Source+Contributor;Passionate+about+building+scalable+APIs;Always+learning,+always+coding" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=D4A84C&center=true&vCenter=true&multiline=false&width=800&height=55&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Rahman;Full-Stack+Developer+%7C+Open+Source+Enthusiast;Building+scalable+APIs+%26+modern+web+apps" />
 </a>
 
 <br /><br />
@@ -37,7 +37,7 @@
   </p>
   
   <a href="mailto:dev@abdulrdeveloper.me">
-    <img src="https://img.shields.io/badge/Open_To_Work_&_Internships-0d1117?style=for-the-badge&logo=mail.ru&logoColor=58a6ff&color=0d1117&labelColor=0d1117&borderColor=58a6ff" border="1" alt="Looking for Opportunities" />
+    <img src="https://img.shields.io/badge/Open_To_Work_&_Internships-0d1117?style=for-the-badge&logo=mail.ru&logoColor=58a6ff&color=0d1117&labelColor=0d1117&borderColor=58a6ff" border="1" alt="Looking for work" />
   </a>
 </div>
 
@@ -48,7 +48,7 @@
 <br />
 
 <a href="https://github.com/abdulrdeveloper">
-  <img src="https://streak-stats.demolab.com?user=abdulrdeveloper&theme=transparent&background=0d1117&ring=d4a84c&fire=ff6b35&currStreakLabel=d4a84c&sideLabels=d4a84c&currStreakNum=ffffff&sideNums=ffffff&hide_border=true&cache_seconds=300" />
+  <img src="https://streak-stats.demolab.com?user=abdulrdeveloper&theme=transparent&background=0d1117&ring=d4a84c&fire=ff6b35&currStreakLabel=d4a84c&sideLabels=d4a84c&currStreakNum=ffffff&sideNums=ffffff&dates=808080&hide_border=true" />
 </a>
 
 <br /><br />
@@ -72,7 +72,7 @@
 <br />
 
 <a href="https://github.com/abdulrdeveloper">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrdeveloper&bg_color=0d1117&color=d4a84c&line=d4a84c&point=ffffff&area=true&area_color=d4a84c&hide_border=false&border_color=d4a84c&border_radius=10&custom_title=Contributions&title_color=d4a84c&cache_seconds=300" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrdeveloper&bg_color=0d1117&color=d4a84c&line=d4a84c&point=ffffff&area=true&area_color=d4a84c&hide_border=false&border_color=d4a84c&hide_title=true&custom_title=Contributions&theme=github" width="98%" />
 </a>
 
 <br /><br />
@@ -153,14 +153,14 @@
 
 <br />
 
-| 🏆 Project | 📝 Key Highlights | ⭐ Stars |
-| :--- | :--- | :---: |
-| [**abdulrdeveloper profile**](https://github.com/abdulrdeveloper/abdulrdeveloper) | 🔹 A clean and modern GitHub portfolio card template<br/>🔹 Fully customizable and perfect for developer profiles | `⭐ 17` |
-| [**Chai-aur-React**](https://github.com/abdulrdeveloper/Chai-aur-React) | 🔹 Hands-on React learning repository<br/>🔹 Focuses on core component-based development concepts | `⭐ 16` |
-| [**chailearn**](https://github.com/abdulrdeveloper/chailearn) | 🔹 Interactive front-end learning resource<br/>🔹 Provides step-by-step practical examples of modern web tech | `⭐ 14` |
-| [**express-typeScript-server**](https://github.com/abdulrdeveloper/express-typeScript-server-build) | 🔹 Scalable Express.js + TypeScript server architecture<br/>🔹 Boilerplate ready for rapid development | `⭐ 2` |
-| [**React--Tic-Tac-Toe**](https://github.com/abdulrdeveloper/React--Tic-Tac-Toe) | 🔹 Modern Tic-Tac-Toe game with an interactive UI<br/>🔹 Built entirely with React, featuring a dark theme approach | `⭐ 1` |
-| [**Authentication-Service**](https://github.com/abdulrdeveloper/Authentication-Service) | 🔹 Secure backend authentication service built in TypeScript<br/>🔹 Implements JWT and industry best practices | `⭐ 0` |
+| 🏆 Project | 📝 Key Highlights |
+| :--- | :--- |
+| [**abdulrdeveloper profile**](https://github.com/abdulrdeveloper/abdulrdeveloper) | 🔹 A clean and modern GitHub portfolio card template<br/>🔹 Fully customizable and perfect for developer profiles |
+| [**Chai-aur-React**](https://github.com/abdulrdeveloper/Chai-aur-React) | 🔹 Hands-on React learning repository<br/>🔹 Focuses on core component-based development concepts |
+| [**chailearn**](https://github.com/abdulrdeveloper/chailearn) | 🔹 Interactive front-end learning resource<br/>🔹 Provides step-by-step practical examples of modern web tech |
+| [**express-typeScript-server**](https://github.com/abdulrdeveloper/express-typeScript-server-build) | 🔹 Scalable Express.js + TypeScript server architecture<br/>🔹 Boilerplate ready for rapid backend development |
+| [**React--Tic-Tac-Toe**](https://github.com/abdulrdeveloper/React--Tic-Tac-Toe) | 🔹 Modern Tic-Tac-Toe game with an interactive UI<br/>🔹 Built entirely with React, featuring a dark theme aesthetic |
+| [**Authentication-Service**](https://github.com/abdulrdeveloper/Authentication-Service) | 🔹 Secure backend authentication service built in TypeScript<br/>🔹 Implements JWT and industry best practices for API security |
 
 <br />
 
@@ -188,7 +188,7 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0d1117,55:1a1a2e,85:16213e,100:d4a84c&height=220&section=footer&text=Code%20is%20The%20Conversation&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0d1117,55:1a1a2e,85:16213e,100:d4a84c&height=220&section=footer&text=Code%20is%20The%20Conversation&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=60&desc=Thanks%20for%20dropping%20by!&descAlign=50&descAlignY=75&descSize=20&animation=fadeIn" width="100%" />
 
 <div align="center">
 
