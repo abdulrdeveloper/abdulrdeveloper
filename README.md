@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0d1117,55:1a1a2e,85:16213e,100:d4a84c&height=300&section=header&text=ABDUL%20RAHMAN&fontColor=ffffff&fontSize=72&fontAlign=Y" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0d1117,55:1a1a2e,85:16213e,100:d4a84c&height=300&section=header&text=WELL%20COME&fontColor=ffffff&fontSize=72&fontAlign=Y" />
 
 <br />
 
@@ -33,7 +33,7 @@
 <div align="center">
   <h2>◈◈ &nbsp; ABOUT ME &nbsp; ◈◈</h2>
   <p align="center">
-    I am a passionate <b>Full-Stack Developer</b> from Pakistan, dedicated to building scalable, user-centric web applications. I thrive on solving complex problems, writing clean code, and continuously learning modern technologies like React, Node.js, and TypeScript. Currently, I am deep-diving into backend architectures and actively seeking opportunities to apply my skills in a fast-paced environment.
+    18-year-old Full-Stack Developer from Pakistan. 1+ year building with React, Node.js, PostgreSQL & Tailwind. Currently diving deep into backend architecture, API security & scalable systems.
   </p>
   
   <a href="mailto:dev@abdulrdeveloper.me">
@@ -185,7 +185,6 @@
 <a href="https://abdulrdeveloper.me/" target="_blank"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-d4a84c?style=for-the-badge&labelColor=0d1117&color=d4a84c" /></a>&nbsp;
 <a href="mailto:dev@abdulrdeveloper.me" target="_blank"><img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&labelColor=0d1117&color=EA4335" /></a>&nbsp;
 <a href="https://linkedin.com/in/abdulrdeveloper" target="_blank"><img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&labelColor=0d1117&color=0A66C2" /></a>&nbsp;
-<a href="https://twitter.com/abdulrdeveloper" target="_blank"><img src="https://img.shields.io/badge/🐦%20TWITTER-1DA1F2?style=for-the-badge&labelColor=0d1117&color=1DA1F2" /></a>
 
 <br />
 
@@ -194,7 +193,7 @@
 <div align="center">
 
 <sub>
-  <b>◈ &nbsp; <a href="https://abdulrdeveloper.me">abdulrdeveloper.me</a> &nbsp; ◈</b><br />
+  <b>◈ &nbsp; <a href="https://abdulrdeveloper.me" target="_blank">abdulrdeveloper.me</a> &nbsp; ◈</b><br />
   <i>Built with ❤️ and ☕ by Abdul Rahman &nbsp;·&nbsp; I'm a programmer, not just a coder ⚡</i><br />
   <b>⭐ If this inspires you, drop a star — it fuels the next 100 commits!</b>
 </sub>
