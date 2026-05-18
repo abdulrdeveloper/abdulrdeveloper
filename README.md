@@ -31,27 +31,14 @@
 <br />
 
 <div align="center">
-<h2>◈◈ ABOUT ME ◈◈</h2>
-</div>
-
-<br />
-
-<div align="center">
-
-```javascript
-const developer = {
-  name: "Abdul Rahman",
-  role: "Full-Stack Developer",
-  location: "Pakistan 🇵🇰",
-  website: "https://abdulrdeveloper.me",
-  focus: ["React", "Node.js", "TypeScript", "Cloud"],
-  philosophy: "Code is The Conversation",
-  currently: "Deep-diving into Backend Architectures & Web Dev Cohort 2026",
-  openTo: ["Freelance", "Full-time", "Collaborations"],
-  superpower: "I'm a programmer, not just a coder ⚡"
-};
-```
-
+  <h2>◈◈ &nbsp; ABOUT ME &nbsp; ◈◈</h2>
+  <p align="center">
+    I am a passionate <b>Full-Stack Developer</b> from Pakistan, dedicated to building scalable, user-centric web applications. I thrive on solving complex problems, writing clean code, and continuously learning modern technologies like React, Node.js, and TypeScript. Currently, I am deep-diving into backend architectures and actively seeking opportunities to apply my skills in a fast-paced environment.
+  </p>
+  
+  <a href="mailto:dev@abdulrdeveloper.me">
+    <img src="https://img.shields.io/badge/Open_To_Work_&_Internships-0d1117?style=for-the-badge&logo=mail.ru&logoColor=58a6ff&color=0d1117&labelColor=0d1117&borderColor=58a6ff" border="1" alt="Looking for Internship" />
+  </a>
 </div>
 
 <br />
@@ -111,40 +98,46 @@ const developer = {
 
 <div align="center">
 
+
 ### ◈ &nbsp; LANGUAGES &nbsp; ◈
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" width="110" height="32" />
+<img src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white" alt="CSS" width="110" height="32" />
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" width="130" height="32" />
+<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white" alt="TypeScript" width="130" height="32" />
+
 
 ### ◈ &nbsp; FRONTEND &nbsp; ◈
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black" alt="React" width="120" height="32" />
+<img src="https://img.shields.io/badge/Tailwind-%2306B6D4.svg?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" width="120" height="32" />
+<img src="https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white" alt="Vite" width="110" height="32" />
+
 
 ### ◈ &nbsp; BACKEND & DATABASE &nbsp; ◈
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-%23C5F74F.svg?style=flat-square&logo=drizzle&logoColor=black)
+<img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white" alt="Node.js" width="120" height="32" />
+<img src="https://img.shields.io/badge/Express-%23000000.svg?logo=express&logoColor=white" alt="Express" width="120" height="32" />
+<img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" width="130" height="32" />
+<img src="https://img.shields.io/badge/Drizzle_ORM-%23C5F74F.svg?logo=drizzle&logoColor=black" alt="Drizzle ORM" width="140" height="32" />
+
 
 ### ◈ &nbsp; DEVOPS & DEPLOYMENT &nbsp; ◈
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=flat-square&logo=railway&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat-square&logo=githubactions&logoColor=white)
+<img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" alt="Git" width="110" height="32" />
+<img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" alt="Docker" width="120" height="32" />
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel" width="110" height="32" />
+<img src="https://img.shields.io/badge/Railway-%230B0D0E.svg?logo=railway&logoColor=white" alt="Railway" width="120" height="32" />
+<img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?logo=githubactions&logoColor=white" alt="GitHub Actions" width="150" height="32" />
+
 
 ### ◈ &nbsp; TOOLS &nbsp; ◈
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
+<img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?logo=visualstudiocode&logoColor=white" alt="VS Code" width="120" height="32" />
+<img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white" alt="Postman" width="120" height="32" />
+
 
 ### ◈ &nbsp; CURRENTLY LEARNING &nbsp; ◈
 > _Diving deep into modern API architecture and backend security_ ☕
 
-![Zod](https://img.shields.io/badge/Zod-%233068B7?style=flat-square&logo=zod&logoColor=white&labelColor=1a1f2e)
-![JWT](https://img.shields.io/badge/JWT_Auth-%23000000?style=flat-square&logo=jsonwebtokens&logoColor=58a6ff&labelColor=1a1f2e)
-![REST API](https://img.shields.io/badge/REST_API-%23009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1f2e)
+<img src="https://img.shields.io/badge/Zod-%233068B7?logo=zod&logoColor=white&labelColor=1a1f2e" alt="Zod" width="110" height="32" />
+<img src="https://img.shields.io/badge/JWT_Auth-%23000000?logo=jsonwebtokens&logoColor=58a6ff&labelColor=1a1f2e" alt="JWT" width="120" height="32" />
+<img src="https://img.shields.io/badge/REST_API-%23009688?logo=fastapi&logoColor=white&labelColor=1a1f2e" alt="REST API" width="120" height="32" />
 
 </div>
 
@@ -160,14 +153,22 @@ const developer = {
 
 <br />
 
-| Project | Description |
-| :--- | :--- | 
-| [**chailearn**](https://github.com/abdulrdeveloper/chailearn) | An interactive resource for learning front-end development concepts step by step, with practical examples and modern web technologies. (⭐ 14) | 
-| [**express-typeScript-server**](https://github.com/abdulrdeveloper/express-typeScript-server-build) | Boilerplate for building scalable servers using Express.js and TypeScript, ready for rapid API development. (⭐ 13) | 
-| [**abdulrdeveloper profile**](https://github.com/abdulrdeveloper/abdulrdeveloper) | A clean and modern GitHub portfolio card template – fully customizable, easy to use, and perfect for showcasing your professional profile. (⭐ 19) | 
-| [**React--Tic-Tac-Toe**](https://github.com/abdulrdeveloper/React--Tic-Tac-Toe) | A modern Tic-Tac-Toe game built with React, featuring interactive UI, dark theme, and game logic in JS and CSS. (⭐ 12) | 
-| [**Chai-aur-React**](https://github.com/abdulrdeveloper/Chai-aur-React) | Hands-on React learning project focused on understanding core concepts through practical component-based development. (⭐ 16) | 
-| [**Authentication-Service**](https://github.com/abdulrdeveloper/Authentication-Service) | Secure authentication service built in TypeScript using JWT and best practices for user management. (⭐ 6) | 
+| 🏆 Project | 📝 Key Highlights | ⭐ Stars |
+| :--- | :--- | :---: |
+| [**abdulrdeveloper profile**](https://github.com/abdulrdeveloper/abdulrdeveloper) | 🔹 A clean and modern GitHub portfolio card template<br/>🔹 Fully customizable and perfect for developer branding | `⭐ 19` |
+| [**Chai-aur-React**](https://github.com/abdulrdeveloper/Chai-aur-React) | 🔹 Hands-on React learning repository<br/>🔹 Focuses on core component-based development concepts | `⭐ 16` |
+| [**chailearn**](https://github.com/abdulrdeveloper/chailearn) | 🔹 Interactive front-end learning resource<br/>🔹 Provides step-by-step practical examples of modern web tech | `⭐ 14` |
+| [**express-typeScript-server**](https://github.com/abdulrdeveloper/express-typeScript-server-build) | 🔹 Scalable Express.js + TypeScript server architecture<br/>🔹 Boilerplate ready for rapid and robust API development | `⭐ 13` |
+| [**React--Tic-Tac-Toe**](https://github.com/abdulrdeveloper/React--Tic-Tac-Toe) | 🔹 Modern Tic-Tac-Toe game with an interactive UI<br/>🔹 Built entirely with React, featuring a dark theme and clean logic | `⭐ 12` |
+| [**Authentication-Service**](https://github.com/abdulrdeveloper/Authentication-Service) | 🔹 Secure backend authentication service built in TypeScript<br/>🔹 Implements JWT and industry best practices for user management | `⭐ 6` |
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/abdulrdeveloper?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Projects_%E2%9F%B6-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&color=0d1117&labelColor=0d1117&borderColor=58a6ff" alt="Explore More" />
+  </a>
+</div>
 
 <br />
 
