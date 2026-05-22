@@ -68,7 +68,7 @@ function App() {
                     </svg>
                 </a>
                 <a
-                    href="/Abdul_Rahman_CV.pdf"
+                    href="Abdul_Rahman_CV.pdf"
                     className="social-btn"
                     title="Download CV"
                     download
