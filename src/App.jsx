@@ -11,7 +11,7 @@ function App() {
         <div className="card">
             <div className="avatar-wrap">
                 <img
-                    src="favicon.png"
+                    src="abdul.jpeg"
                     alt="Abdul Rahman"
                     className="avatar-image"
                 />
