@@ -30,10 +30,6 @@ function security() {
     };
     const handleDragStart = (e) => e.preventDefault();
 
-    const blockDevTools = setInterval(() => {
-        Function("debugger")();
-    }, 50);
-
     document.addEventListener("contextmenu", handleContextMenu);
     document.addEventListener("keydown", handleKeyDown);
     document.addEventListener("selectstart", handleSelectStart);
@@ -46,7 +42,6 @@ function security() {
         document.removeEventListener("selectstart", handleSelectStart);
         document.removeEventListener("copy", handleCopy);
         document.removeEventListener("dragstart", handleDragStart);
-        clearInterval(blockDevTools);
     };
 }
 
