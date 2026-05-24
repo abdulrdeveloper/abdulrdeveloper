@@ -192,10 +192,12 @@
 
 <div align="center">
 
-<sub>
-  <b>◈ &nbsp; <a href="https://abdulrdeveloper.me" target="_blank">abdulrdeveloper.me</a> &nbsp; ◈</b><br />
-  <i>Built with ❤️ and ☕ by Abdul Rahman &nbsp;·&nbsp; I'm a programmer, not just a coder ⚡</i><br />
-  <b>⭐ If this inspires you, drop a star — it fuels the next 100 commits!</b>
-</sub>
+<div align="center">
+  <sub>
+    You can find more of my work at <a href="https://abdulrdeveloper.me">abdulrdeveloper.me</a> &nbsp;·&nbsp; 
+    Read more posts at <a href="https://blog.abdulrdeveloper.me">blog.abdulrdeveloper.me</a> &nbsp;·&nbsp; 
+    See more projects on <a href="https://github.com/abdulrdeveloper">GitHub</a>
+  </sub>
+</div>
 
 </div>
