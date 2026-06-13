@@ -33,7 +33,7 @@
 <div align="center">
   <h2>◈◈ &nbsp; ABOUT ME &nbsp; ◈◈</h2>
   <p align="center">
-    18-year-old Full-Stack Developer from Pakistan. 1+ year building with React, Node.js, PostgreSQL & Tailwind. Currently diving deep into backend architecture, API security & scalable systems.
+    Self-taught Full-Stack Developer from Pakistan. 1+ year shipping production apps with Next.js, TypeScript, Node.js & PostgreSQL. Currently diving deep into backend architecture and scalable systems.
   </p>
   
   <a href="mailto:dev@abdulrdeveloper.me" target="_blank">
