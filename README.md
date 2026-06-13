@@ -108,6 +108,7 @@
 
 ### ◈ &nbsp; FRONTEND &nbsp; ◈
 <img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black" alt="React" width="116" height="28" />
+<img src="https://img.shields.io/badge/Next.js-%23000000.svg?logo=nextdotjs&logoColor=white" alt="Next.js" width="116" height="28" />
 <img src="https://img.shields.io/badge/Tailwind-%2306B6D4.svg?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" width="116" height="28" />
 <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white" alt="Vite" width="106" height="28" />
 
@@ -117,6 +118,8 @@
 <img src="https://img.shields.io/badge/Express-%23000000.svg?logo=express&logoColor=white" alt="Express" width="116" height="28" />
 <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" width="126" height="28" />
 <img src="https://img.shields.io/badge/Drizzle_ORM-%23C5F74F.svg?logo=drizzle&logoColor=black" alt="Drizzle ORM" width="136" height="28" />
+<img src="https://img.shields.io/badge/Zod-%233068B7.svg?logo=zod&logoColor=white" alt="Zod" width="106" height="28" />
+<img src="https://img.shields.io/badge/JWT-%23000000.svg?logo=jsonwebtokens&logoColor=white" alt="JWT" width="106" height="28" />
 
 
 ### ◈ &nbsp; DEVOPS & DEPLOYMENT &nbsp; ◈
@@ -129,15 +132,17 @@
 
 ### ◈ &nbsp; TOOLS &nbsp; ◈
 <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?logo=visualstudiocode&logoColor=white" alt="VS Code" width="116" height="28" />
+<img src="https://img.shields.io/badge/Windsurf-%230d1117.svg?logo=codeium&logoColor=58a6ff" alt="Windsurf" width="116" height="28" />
 <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white" alt="Postman" width="116" height="28" />
 
 
-### ◈ &nbsp; CURRENTLY LEARNING &nbsp; ◈
-> _Diving deep into modern API architecture and backend security_ ☕
+### ◈ &nbsp; CURRENTLY EXPLORING &nbsp; ◈
+> _Going deeper into backend architecture and scalable systems_ ☕
 
-<img src="https://img.shields.io/badge/Zod-%233068B7?logo=zod&logoColor=white&labelColor=1a1f2e" alt="Zod" width="106" height="28" />
-<img src="https://img.shields.io/badge/JWT_Auth-%23000000?logo=jsonwebtokens&logoColor=58a6ff&labelColor=1a1f2e" alt="JWT" width="116" height="28" />
-<img src="https://img.shields.io/badge/REST_API-%23009688?logo=fastapi&logoColor=white&labelColor=1a1f2e" alt="REST API" width="116" height="28" />
+<img src="https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white" alt="Redis" width="106" height="28" />
+<img src="https://img.shields.io/badge/WebSockets-%23010101.svg?logo=socketdotio&logoColor=white" alt="WebSockets" width="126" height="28" />
+<img src="https://img.shields.io/badge/tRPC-%232596BE.svg?logo=trpc&logoColor=white" alt="tRPC" width="106" height="28" />
+<img src="https://img.shields.io/badge/Prisma-%232D3748.svg?logo=prisma&logoColor=white" alt="Prisma" width="106" height="28" />
 
 </div>
 
@@ -155,12 +160,12 @@
 
 | 🏆 Project | 📝 Key Highlights |
 | :--- | :--- |
-| [**abdulrdeveloper profile**](https://github.com/abdulrdeveloper/abdulrdeveloper) | 🔹 A clean and modern GitHub portfolio card template<br/>🔹 Fully customizable and perfect for developer profiles |
-| [**Chai-aur-React**](https://github.com/abdulrdeveloper/Chai-aur-React) | 🔹 Hands-on React learning repository<br/>🔹 Focuses on core component-based development concepts |
-| [**chailearn**](https://github.com/abdulrdeveloper/chailearn) | 🔹 Interactive front-end learning resource<br/>🔹 Provides step-by-step practical examples of modern web tech |
-| [**express-typeScript-server**](https://github.com/abdulrdeveloper/express-typeScript-server-build) | 🔹 Scalable Express.js + TypeScript server architecture<br/>🔹 Boilerplate ready for rapid backend development |
-| [**React--Tic-Tac-Toe**](https://github.com/abdulrdeveloper/React--Tic-Tac-Toe) | 🔹 Modern Tic-Tac-Toe game with an interactive UI<br/>🔹 Built entirely with React, featuring a dark theme aesthetic |
-| [**Authentication-Service**](https://github.com/abdulrdeveloper/Authentication-Service) | 🔹 Secure backend authentication service built in TypeScript<br/>🔹 Implements JWT and industry best practices for API security |
+| [**DevScope**](https://github.com/abdulrdeveloper/devscope) | 🔹 Developer dashboard — GitHub stats, weather, dev tools explorer<br/>🔹 Cookie-based auth with Next.js middleware — no third-party library |
+| [**TimeIt**](https://github.com/abdulrdeveloper/TimeIt) | 🔹 Premium time management app — Clock, Timer, Stopwatch<br/>🔹 React 18, Vite, React Router with responsive dark UI |
+| [**ChaiLearn**](https://github.com/abdulrdeveloper/chailearn) | 🔹 Web dev learning platform with 150+ videos and REST API filtering<br/>🔹 14 GitHub stars |
+| [**Portfolio Card**](https://github.com/abdulrdeveloper/abdulrdeveloper) | 🔹 Minimal developer portfolio card template<br/>🔹 Adopted by 19+ developers |
+| [**Authentication Service**](https://github.com/abdulrdeveloper/Authentication-Service) | 🔹 Secure backend auth service in TypeScript<br/>🔹 JWT implementation with industry best practices |
+| [**Kanban Board**](https://github.com/abdulrdeveloper/modern-kanban-board) | 🔹 Drag-and-drop task management board<br/>🔹 7 GitHub stars |
 
 <br />
 
