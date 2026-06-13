@@ -1,6 +1,7 @@
 ﻿import { useEffect } from "react";
 import "./App.css";
 
+function App() {
   return (
     <div className="card">
       <div className="avatar-wrap">
@@ -24,8 +25,9 @@ import "./App.css";
         <span className="skill">REACT</span>
         <span className="skill">NODE.JS</span>
         <span className="skill">EXPRESS</span>
-        <span className="skill">POSTGRESQL</span>
         <span className="skill">TAILWIND</span>
+        <span className="skill">POSTGRESQL</span>
+        <span className="skill">DOCKER</span>
         <span className="skill">GIT</span>
       </div>
       <div className="socials">
@@ -75,5 +77,6 @@ import "./App.css";
       <div className="footer-note">Code is the conversation.</div>
     </div>
   );
+}
 
 export default App;
