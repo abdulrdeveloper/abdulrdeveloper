@@ -152,21 +152,6 @@
 
 <br />
 
-<div align="center">
-<h2>◈◈ &nbsp; TOP FEATURED PROJECTS &nbsp; ◈◈</h2>
-</div>
-
-<br />
-
-| 🏆 Project | 📝 Key Highlights |
-| :--- | :--- |
-| [**DevScope**](https://github.com/abdulrdeveloper/devscope) | 🔹 Developer dashboard — GitHub stats, weather, dev tools explorer<br/>🔹 Cookie-based auth with Next.js middleware — no third-party library |
-| [**TimeIt**](https://github.com/abdulrdeveloper/TimeIt) | 🔹 Premium time management app — Clock, Timer, Stopwatch<br/>🔹 React 18, Vite, React Router with responsive dark UI |
-| [**ChaiLearn**](https://github.com/abdulrdeveloper/chailearn) | 🔹 Web dev learning platform with 150+ videos and REST API filtering<br/>🔹 14 GitHub stars |
-| [**Portfolio Card**](https://github.com/abdulrdeveloper/abdulrdeveloper) | 🔹 Minimal developer portfolio card template<br/>🔹 Adopted by 19+ developers |
-| [**Authentication Service**](https://github.com/abdulrdeveloper/Authentication-Service) | 🔹 Secure backend auth service in TypeScript<br/>🔹 JWT implementation with industry best practices |
-| [**Kanban Board**](https://github.com/abdulrdeveloper/modern-kanban-board) | 🔹 Drag-and-drop task management board<br/>🔹 7 GitHub stars |
-
 <br />
 
 <div align="center">
@@ -176,8 +161,6 @@
 </div>
 
 <br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=3&width=100%" />
 
 <br />
 
@@ -196,6 +179,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0d1117,55:1a1a2e,85:16213e,100:d4a84c&height=220&section=footer&text=Code%20is%20The%20Conversation&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=60&desc=Thanks%20for%20dropping%20by!&descAlign=50&descAlignY=75&descSize=20&animation=fadeIn" width="100%" />
 
 <div align="center">
+<br />
 
 <div align="center">
   <sub>
