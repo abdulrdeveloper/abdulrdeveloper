@@ -33,7 +33,7 @@
 <div align="center">
   <h2>◈◈ &nbsp; ABOUT ME &nbsp; ◈◈</h2>
   <p align="center">
-    Self-taught Full-Stack Developer from Pakistan. 1+ year shipping production apps with Next.js, TypeScript, Node.js & PostgreSQL. Currently diving deep into backend architecture and scalable systems.
+    Self-taught Full-Stack Developer focused on shipping production-ready applications with Next.js, TypeScript, Node.js & PostgreSQL. Currently diving deep into backend architecture and scalable systems.
   </p>
   
   <a href="mailto:dev@abdulrdeveloper.me" target="_blank">
