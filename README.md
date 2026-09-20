@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0d1117,55:1a1a2e,85:16213e,100:d4a84c&height=300&section=header&text=WELCOME&fontColor=ffffff&fontSize=72&fontAlign=50&fontAlignY=35&desc=Code.%20Build.%20Ship.%20Repeat.&descAlign=50&descAlignY=55&descSize=20&animation=fadeIn" width="100%" />
-
-<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0d1117,55:1a1a2e,85:16213e,100:d4a84c&height=250&section=header&text=Abdul%20Rahman&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Developer&descAlign=50&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
 <a href="https://abdulrdeveloper.me" target="_blank">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=D4A84C&center=true&vCenter=true&multiline=false&width=800&height=55&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Rahman;Full-Stack+Developer+%7C+Open+Source+Enthusiast;Building+scalable+APIs+%26+modern+web+apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=D4A84C&center=true&vCenter=true&multiline=false&width=800&height=45&lines=Building+scalable+full-stack+applications;React+%2F+Next.js+%2F+Node+%2F+PostgreSQL;Currently+going+deep+on+backend+architecture" />
 </a>
 
 <br /><br />
@@ -13,12 +11,19 @@
 <img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-00c853?style=for-the-badge&labelColor=0d1117&color=00c853" />
 &nbsp;
 <img src="https://img.shields.io/badge/FREELANCE-d4a84c?style=for-the-badge&labelColor=0d1117&color=d4a84c" />
-&nbsp;
-<img src="https://img.shields.io/badge/FULL--TIME-5865F2?style=for-the-badge&labelColor=0d1117&color=5865F2" />
-&nbsp;
-<img src="https://img.shields.io/badge/COLLABS-e91e8c?style=for-the-badge&labelColor=0d1117&color=e91e8c" />
 
-<br /><br />
+</div>
+
+<br />
+
+## About
+
+Self-taught full-stack developer (~1.5 years) building production-grade apps with **React/Next.js** on the frontend and **Node/Express + MongoDB/PostgreSQL** on the backend. Currently a Computer Science student, and going deeper into backend architecture — auth systems, caching, and scalable API design.
+
+
+<br />
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=abdulrdeveloper&label=PROFILE+VIEWS&style=for-the-badge&color=d4a84c&labelColor=0d1117" />
 &nbsp;
@@ -26,26 +31,8 @@
 &nbsp;
 <img src="https://img.shields.io/github/stars/abdulrdeveloper?label=TOTAL+STARS&style=for-the-badge&color=d4a84c&labelColor=0d1117&logo=github" />
 
-</div>
-
-<br />
-
-<div align="center">
-  <h2>◈◈ &nbsp; ABOUT ME &nbsp; ◈◈</h2>
-  <p align="center">
-    Self-taught Full-Stack Developer focused on shipping production-ready applications with Next.js, TypeScript, Node.js & PostgreSQL. Currently diving deep into backend architecture and scalable systems.
-  </p>
-  
-  <a href="mailto:dev@abdulrdeveloper.me" target="_blank">
-    <img src="https://img.shields.io/badge/Open_To_Work_&_Internships-0d1117?style=for-the-badge&logo=mail.ru&logoColor=58a6ff&color=0d1117&labelColor=0d1117&borderColor=58a6ff" border="1" alt="Looking for work" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-<h2>◈◈ &nbsp; GITHUB ANALYTICS &nbsp; ◈◈</h2>
-<br />
+<br /><br />
+### 📊 GitHub Stats
 
 <a href="https://github.com/abdulrdeveloper" target="_blank">
   <img src="https://streak-stats.demolab.com?user=abdulrdeveloper&theme=transparent&background=0d1117&ring=d4a84c&fire=ff6b35&currStreakLabel=d4a84c&sideLabels=d4a84c&currStreakNum=ffffff&sideNums=ffffff&dates=808080&hide_border=true" />
@@ -54,139 +41,101 @@
 <br /><br />
 
 <a href="https://github.com/abdulrdeveloper" target="_blank">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrdeveloper&theme=nord_dark&cache_seconds=300" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrdeveloper&theme=nord_dark&cache_seconds=300" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulrdeveloper&theme=nord_dark&utcOffset=5&cache_seconds=300" width="48%" />
 </a>
 
-<br /><br />
-
-<a href="https://github.com/abdulrdeveloper" target="_blank">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrdeveloper&theme=nord_dark&cache_seconds=300" height="175" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulrdeveloper&theme=nord_dark&utcOffset=5&cache_seconds=300" height="175" />
-</a>
 </div>
 
 <br />
 
 <div align="center">
-<h2>◈◈ &nbsp; CONTRIBUTION GRAPH &nbsp; ◈◈</h2>
+
+### 📈 Contribution Activity
+
 <br />
-
-<a href="https://github.com/abdulrdeveloper" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrdeveloper&bg_color=0d1117&color=d4a84c&line=d4a84c&point=ffffff&area=true&area_color=d4a84c&hide_border=false&border_color=d4a84c&hide_title=true&custom_title=Contributions&theme=github" width="98%" />
-</a>
-
-<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/output/github-contribution-grid-snake-dark.svg" width="98%" />
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </picture>
-</div>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=3&width=100%" />
-
-<br />
-
-<div align="center">
-<h2>◈◈ &nbsp; TECH STACK &nbsp; ◈◈</h2>
-</div>
-
-<br />
-
-<div align="center">
-
-
-### ◈ &nbsp; LANGUAGES &nbsp; ◈
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" width="106" height="28" />
-<img src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white" alt="CSS" width="106" height="28" />
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" width="126" height="28" />
-<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white" alt="TypeScript" width="126" height="28" />
-
-
-### ◈ &nbsp; FRONTEND &nbsp; ◈
-<img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black" alt="React" width="116" height="28" />
-<img src="https://img.shields.io/badge/Next.js-%23000000.svg?logo=nextdotjs&logoColor=white" alt="Next.js" width="116" height="28" />
-<img src="https://img.shields.io/badge/Tailwind-%2306B6D4.svg?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" width="116" height="28" />
-<img src="https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white" alt="Vite" width="106" height="28" />
-
-
-### ◈ &nbsp; BACKEND & DATABASE &nbsp; ◈
-<img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white" alt="Node.js" width="116" height="28" />
-<img src="https://img.shields.io/badge/Express-%23000000.svg?logo=express&logoColor=white" alt="Express" width="116" height="28" />
-<img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" width="126" height="28" />
-<img src="https://img.shields.io/badge/Drizzle_ORM-%23C5F74F.svg?logo=drizzle&logoColor=black" alt="Drizzle ORM" width="136" height="28" />
-<img src="https://img.shields.io/badge/Zod-%233068B7.svg?logo=zod&logoColor=white" alt="Zod" width="106" height="28" />
-<img src="https://img.shields.io/badge/JWT-%23000000.svg?logo=jsonwebtokens&logoColor=white" alt="JWT" width="106" height="28" />
-
-
-### ◈ &nbsp; DEVOPS & DEPLOYMENT &nbsp; ◈
-<img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" alt="Git" width="106" height="28" />
-<img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" alt="Docker" width="116" height="28" />
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel" width="106" height="28" />
-<img src="https://img.shields.io/badge/Railway-%230B0D0E.svg?logo=railway&logoColor=white" alt="Railway" width="116" height="28" />
-<img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?logo=githubactions&logoColor=white" alt="GitHub Actions" width="146" height="28" />
-
-
-### ◈ &nbsp; TOOLS &nbsp; ◈
-<img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?logo=visualstudiocode&logoColor=white" alt="VS Code" width="116" height="28" />
-<img src="https://img.shields.io/badge/Windsurf-%230d1117.svg?logo=codeium&logoColor=58a6ff" alt="Windsurf" width="116" height="28" />
-<img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white" alt="Postman" width="116" height="28" />
-
-
-### ◈ &nbsp; CURRENTLY EXPLORING &nbsp; ◈
-> _Going deeper into backend architecture and scalable systems_ ☕
-
-<img src="https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white" alt="Redis" width="106" height="28" />
-<img src="https://img.shields.io/badge/WebSockets-%23010101.svg?logo=socketdotio&logoColor=white" alt="WebSockets" width="126" height="28" />
-<img src="https://img.shields.io/badge/tRPC-%232596BE.svg?logo=trpc&logoColor=white" alt="tRPC" width="106" height="28" />
-<img src="https://img.shields.io/badge/Prisma-%232D3748.svg?logo=prisma&logoColor=white" alt="Prisma" width="106" height="28" />
 
 </div>
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=2&width=100%" />
 
 <br />
+
+## Tech Stack
+
+**Languages**
+<br />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+**Frontend**
+<br />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+
+**Backend**
+<br />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+
+**Database & ORM**
+<br />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+**Auth & Security**
+<br />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+
+
+**Tools & Deployment**
+<br />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+
+**Currently Exploring**
+<br />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=2&width=100%" />
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/abdulrdeveloper?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_All_Projects_%E2%9F%B6-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&color=0d1117&labelColor=0d1117&borderColor=58a6ff" alt="Explore More Projects" />
-  </a>
-</div>
 
-<br />
-
-<br />
-
-<div align="center">
-
-<h2>◈◈ &nbsp; LET'S CONNECT &nbsp; ◈◈</h2>
-
-<br />
+## Let's Connect
 
 <a href="https://abdulrdeveloper.me/" target="_blank"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-d4a84c?style=for-the-badge&labelColor=0d1117&color=d4a84c" /></a>&nbsp;
 <a href="mailto:dev@abdulrdeveloper.me" target="_blank"><img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&labelColor=0d1117&color=EA4335" /></a>&nbsp;
 <a href="https://linkedin.com/in/abdulrdeveloper" target="_blank"><img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&labelColor=0d1117&color=0A66C2" /></a>&nbsp;
+<a href="https://blog.abdulrdeveloper.me" target="_blank"><img src="https://img.shields.io/badge/✍️%20BLOG-000000?style=for-the-badge&labelColor=0d1117&color=1a1a2e" /></a>
 
-<br />
+<br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0d1117,55:1a1a2e,85:16213e,100:d4a84c&height=220&section=footer&text=Code%20is%20The%20Conversation&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=60&desc=Thanks%20for%20dropping%20by!&descAlign=50&descAlignY=75&descSize=20&animation=fadeIn" width="100%" />
-
-<div align="center">
-<br />
-
-<div align="center">
-  <sub>
-    You can find more of my work at <a href="https://abdulrdeveloper.me">abdulrdeveloper.me</a> &nbsp;·&nbsp; 
-    Read more posts at <a href="https://blog.abdulrdeveloper.me">blog.abdulrdeveloper.me</a> &nbsp;·&nbsp; 
-    See more projects on <a href="https://github.com/abdulrdeveloper">GitHub</a>
-  </sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0d1117,55:1a1a2e,85:16213e,100:d4a84c&height=180&section=footer&text=Thanks%20for%20stopping%20by&fontColor=ffffff&fontSize=32&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" />
 
 </div>
